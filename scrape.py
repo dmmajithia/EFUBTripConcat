@@ -18,17 +18,6 @@ date_start_end_class = "departure-date__InnerDateDiv-sc-1a35nt3-7"
 date_avail_class = "departure-date__Availability-sc-1a35nt3-2"
 chromedriver = "/Users/dhawalmajithia/Desktop/works/test/ef_scrap/EFUBTripConcat/chromedriver"
 
-#  ds = driver.find_elements_by_class_name("departure-selector__DepartureListItem-vtvk14-3")
-# >>> x= ds[0].find_element_by_class_name("departure-date__InnerDateDiv-sc-1a35nt3-7")
-# >>> x.get_attribute('textContent')
-# 'Jun 3'
-
-# s = ds[0].find_element_by_class_name("departure-date__DateDiv-sc-1a35nt3-3")
-# s.get_attribute('textContent')
-# 'ThuJun 3'
-
-# departure-date__Availability-sc-1a35nt3-2
-
 # threading related source from - 
 # https://stackoverflow.com/questions/19846332/python-threading-inside-a-class
 def call_with_future(fn, future, args, kwargs):
@@ -122,36 +111,41 @@ def foo():
 	print(f'It took {end - start} seconds!')
 	return dests
 
-
-	# places = []
-	# years = set()
-
-	# for dest in destinations:
-	# 	driver.get(dest)
-	# 	time.sleep(2)
-	# 	trip_name = driver.find_element_by_class_name(dest_title_class).text
-	# 	print(trip_name)
-	# 	valid = False
-	# 	try:
-	# 		# 'iYkdPv' is class name for all years labels
-	# 		year_buttons = driver.find_elements_by_class_name(year_buttons_class)
-	# 		print(','.join([b.text for b in year_buttons]))
-	# 		year_buttons = [b for b in year_buttons if b.text=='2021']
-	# 		if len(year_buttons) == 1:
-	# 			year_buttons[0].click()
-	# 			valid = True
-	# 			places.append({"name":trip_name,"url":dest})
-	# 	except:
-	# 		print("HTML error!")
-	# 	if not valid:
-	# 		print('invalid')
-	# return places
-	# # print("\n\n # places = " + str(len(places.keys())))
-	# # print("Printing trip names: ")
-	# # for p in places:
-	# # 	print(p["name"])
+def save_dests(fname='p1.txt'):
+	with open(fname,'a') as f:
+		for p in places:
+			f.write('#n-'+p.name+'\n')
+			f.write('#u-'+p.url+'\n')
+			for y in p.years:
+				f.write('#y-'+y+'\n')
+				for d in p.dates[y]:
+					f.write('#s-'+d.start+'\n')
+					f.write('#e-'+d.end+'\n')
+					f.write('#a-'+d.avail+'\n')
 
 
-# year-selector__YearButton-sv0ryn-2
-# year-selector-button-2021
-# iYkdPv
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

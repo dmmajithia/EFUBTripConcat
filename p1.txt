@@ -1,0 +1,3926 @@
+#n-Bali: Tropical Escape
+#u-https://www.efultimatebreak.com/trips/bali-tropical-escape?si=4&qi=fe2ec76e6b0fd975508c4b434477d341
+#y-2021
+#s-Feb 25
+#e-Mar 7
+#a-Filling Fast
+#s-Mar 17
+#e-Mar 27
+#a-Filling Fast
+#s-May 20
+#e-May 30
+#a-Almost Full
+#s-May 27
+#e-Jun 6
+#a-Filling Fast
+#s-Jun 10
+#e-Jun 20
+#a-Filling Fast
+#s-Jun 24
+#e-Jul 4
+#a-Filling Fast
+#s-Jul 2
+#e-Jul 12
+#a-
+#s-Jul 8
+#e-Jul 18
+#a-Sold out
+#s-Jul 15
+#e-Jul 25
+#a-
+#s-Aug 12
+#e-Aug 22
+#a-
+#s-Aug 26
+#e-Sep 5
+#a-Almost Full
+#s-Sep 9
+#e-Sep 19
+#a-Filling Fast
+#s-Sep 16
+#e-Sep 26
+#a-Filling Fast
+#s-Sep 23
+#e-Oct 3
+#a-Filling Fast
+#s-Dec 2
+#e-Dec 12
+#a-
+#y-2022
+#s-Feb 24
+#e-Mar 6
+#a-
+#s-Mar 10
+#e-Mar 20
+#a-
+#s-May 19
+#e-May 29
+#a-
+#s-May 26
+#e-Jun 5
+#a-
+#s-Jun 9
+#e-Jun 19
+#a-
+#s-Jun 23
+#e-Jul 3
+#a-
+#s-Jun 29
+#e-Jul 9
+#a-
+#s-Jul 7
+#e-Jul 17
+#a-
+#s-Jul 21
+#e-Jul 31
+#a-
+#s-Aug 9
+#e-Aug 19
+#a-
+#s-Aug 25
+#e-Sep 4
+#a-
+#s-Sep 1
+#e-Sep 11
+#a-
+#s-Sep 15
+#e-Sep 25
+#a-
+#s-Sep 22
+#e-Oct 2
+#a-
+#n-Canadian Rockies: Banff to Vancouver
+#u-https://www.efultimatebreak.com/trips/canada-banff-to-vancouver?si=4&qi=fe2ec76e6b0fd975508c4b434477d341
+#y-2021
+#s-May 14
+#e-May 22
+#a-Filling Fast
+#s-Jun 4
+#e-Jun 12
+#a-Filling Fast
+#s-Jun 25
+#e-Jul 3
+#a-Almost Full
+#s-Jul 9
+#e-Jul 17
+#a-
+#s-Jul 23
+#e-Jul 31
+#a-Filling Fast
+#s-Aug 13
+#e-Aug 21
+#a-Filling Fast
+#n-Spanish Road Trip
+#u-https://www.efultimatebreak.com/trips/spanish-road-trip?si=4&qi=fe2ec76e6b0fd975508c4b434477d341
+#y-2022
+#s-Mar 10
+#e-Mar 20
+#a-
+#s-Apr 21
+#e-May 1
+#a-
+#s-May 12
+#e-May 22
+#a-
+#s-May 26
+#e-Jun 5
+#a-
+#s-Jun 2
+#e-Jun 12
+#a-
+#s-Jun 16
+#e-Jun 26
+#a-
+#s-Jun 23
+#e-Jul 3
+#a-
+#s-Jul 7
+#e-Jul 17
+#a-
+#s-Jul 21
+#e-Jul 31
+#a-
+#s-Jul 28
+#e-Aug 7
+#a-
+#s-Aug 11
+#e-Aug 21
+#a-
+#s-Aug 18
+#e-Aug 28
+#a-
+#s-Sep 8
+#e-Sep 18
+#a-
+#s-Sep 15
+#e-Sep 25
+#a-
+#y-2021
+#s-Mar 11
+#e-Mar 21
+#a-Filling Fast
+#s-Apr 22
+#e-May 2
+#a-Filling Fast
+#s-May 13
+#e-May 23
+#a-Filling Fast
+#s-May 27
+#e-Jun 6
+#a-Filling Fast
+#s-Jun 3
+#e-Jun 13
+#a-Filling Fast
+#s-Jun 17
+#e-Jun 27
+#a-Filling Fast
+#s-Jun 24
+#e-Jul 4
+#a-Filling Fast
+#s-Jul 8
+#e-Jul 18
+#a-Filling Fast
+#s-Jul 22
+#e-Aug 1
+#a-Filling Fast
+#s-Jul 29
+#e-Aug 8
+#a-Filling Fast
+#s-Aug 12
+#e-Aug 22
+#a-
+#s-Aug 19
+#e-Aug 29
+#a-Filling Fast
+#s-Sep 9
+#e-Sep 19
+#a-Filling Fast
+#s-Sep 16
+#e-Sep 26
+#a-Filling Fast
+#s-Dec 29
+#e-Jan 8
+#a-
+#y-2020
+#s-Dec 29
+#e-Jan 8
+#a-Filling Fast
+#s-Dec 29
+#e-Jan 8
+#a-
+#n-Rome, the Amalfi Coast & Greece
+#u-https://www.efultimatebreak.com/trips/rome-amalfi-the-greek-islands?si=4&qi=fe2ec76e6b0fd975508c4b434477d341
+#y-2021
+#s-Jun 3
+#e-Jun 13
+#a-Almost Full
+#s-Jun 17
+#e-Jun 27
+#a-Sold out
+#s-Jul 22
+#e-Aug 1
+#a-Filling Fast
+#s-Jul 29
+#e-Aug 8
+#a-Filling Fast
+#s-Aug 12
+#e-Aug 22
+#a-Filling Fast
+#s-Sep 9
+#e-Sep 19
+#a-
+#s-Sep 16
+#e-Sep 26
+#a-
+#y-2022
+#s-Jun 2
+#e-Jun 12
+#a-
+#s-Jun 16
+#e-Jun 26
+#a-
+#s-Jul 21
+#e-Jul 31
+#a-
+#s-Jul 28
+#e-Aug 7
+#a-
+#s-Aug 11
+#e-Aug 21
+#a-
+#s-Sep 8
+#e-Sep 18
+#a-
+#s-Sep 15
+#e-Sep 25
+#a-
+#n-US National Parks: California to the Grand Canyon
+#u-https://www.efultimatebreak.com/trips/us-national-parks?si=4&qi=fe2ec76e6b0fd975508c4b434477d341
+#y-2021
+#s-May 12
+#e-May 22
+#a-Filling Fast
+#s-Jun 2
+#e-Jun 12
+#a-Filling Fast
+#s-Jun 30
+#e-Jul 10
+#a-
+#s-Jul 21
+#e-Jul 31
+#a-
+#s-Aug 11
+#e-Aug 21
+#a-
+#y-2020
+#s-Oct 17
+#e-Oct 27
+#a-Sold out
+#n-India: The Golden Triangle
+#u-https://www.efultimatebreak.com/trips/highlights-of-india?si=4&qi=fe2ec76e6b0fd975508c4b434477d341
+#y-2021
+#s-May 1
+#e-May 9
+#a-Filling Fast
+#s-May 22
+#e-May 30
+#a-Filling Fast
+#s-Sep 4
+#e-Sep 12
+#a-Almost Full
+#y-2022
+#s-Apr 30
+#e-May 8
+#a-Filling Fast
+#s-May 21
+#e-May 29
+#a-Filling Fast
+#s-Sep 3
+#e-Sep 11
+#a-Filling Fast
+#n-Hawaii: Big Island Adventure
+#u-https://www.efultimatebreak.com/trips/hawaii-big-island-adventure?si=4&qi=fe2ec76e6b0fd975508c4b434477d341
+#y-2021
+#s-Jan 2
+#e-Jan 10
+#a-Filling Fast
+#s-May 21
+#e-May 29
+#a-Filling Fast
+#s-Jun 11
+#e-Jun 19
+#a-
+#s-Jul 9
+#e-Jul 17
+#a-
+#s-Aug 6
+#e-Aug 14
+#a-
+#y-2020
+#s-Dec 4
+#e-Dec 12
+#a-
+#n-Ultimate Europe
+#u-https://www.efultimatebreak.com/trips/ultimate-europe?si=4&qi=fe2ec76e6b0fd975508c4b434477d341
+#y-2021
+#s-Apr 3
+#e-May 7
+#a-Filling Fast
+#s-Apr 13
+#e-May 17
+#a-
+#s-Apr 24
+#e-May 28
+#a-
+#s-May 1
+#e-Jun 4
+#a-Filling Fast
+#s-May 4
+#e-Jun 7
+#a-
+#s-May 8
+#e-Jun 11
+#a-
+#s-May 11
+#e-Jun 14
+#a-Filling Fast
+#s-May 15
+#e-Jun 18
+#a-Filling Fast
+#s-May 18
+#e-Jun 21
+#a-Filling Fast
+#s-May 22
+#e-Jun 25
+#a-Filling Fast
+#s-May 25
+#e-Jun 28
+#a-Filling Fast
+#s-Jun 1
+#e-Jul 5
+#a-Almost Full
+#s-Jun 5
+#e-Jul 9
+#a-Filling Fast
+#s-Jun 8
+#e-Jul 12
+#a-Filling Fast
+#s-Jun 12
+#e-Jul 16
+#a-
+#s-Jun 15
+#e-Jul 19
+#a-Filling Fast
+#s-Jun 19
+#e-Jul 23
+#a-Filling Fast
+#s-Jun 22
+#e-Jul 26
+#a-Filling Fast
+#s-Jun 26
+#e-Jul 30
+#a-Filling Fast
+#s-Jul 6
+#e-Aug 9
+#a-Filling Fast
+#s-Jul 10
+#e-Aug 13
+#a-Filling Fast
+#s-Jul 13
+#e-Aug 16
+#a-
+#s-Jul 17
+#e-Aug 20
+#a-
+#s-Jul 20
+#e-Aug 23
+#a-
+#s-Jul 24
+#e-Aug 27
+#a-
+#s-Jul 27
+#e-Aug 30
+#a-
+#s-Aug 3
+#e-Sep 6
+#a-
+#s-Aug 10
+#e-Sep 13
+#a-
+#s-Aug 14
+#e-Sep 17
+#a-
+#s-Aug 24
+#e-Sep 27
+#a-Filling Fast
+#s-Sep 7
+#e-Oct 11
+#a-Filling Fast
+#s-Sep 10
+#e-Oct 14
+#a-
+#s-Sep 18
+#e-Oct 22
+#a-Filling Fast
+#y-2022
+#s-Apr 2
+#e-May 6
+#a-
+#s-Apr 12
+#e-May 16
+#a-
+#s-Apr 23
+#e-May 27
+#a-
+#s-Apr 30
+#e-Jun 3
+#a-
+#s-May 3
+#e-Jun 6
+#a-
+#s-May 7
+#e-Jun 10
+#a-
+#s-May 10
+#e-Jun 13
+#a-
+#s-May 14
+#e-Jun 17
+#a-
+#s-May 17
+#e-Jun 20
+#a-
+#s-May 24
+#e-Jun 27
+#a-
+#s-May 31
+#e-Jul 4
+#a-
+#s-Jun 4
+#e-Jul 8
+#a-Filling Fast
+#s-Jun 7
+#e-Jul 11
+#a-
+#s-Jun 11
+#e-Jul 15
+#a-
+#s-Jun 14
+#e-Jul 18
+#a-
+#s-Jun 18
+#e-Jul 22
+#a-
+#s-Jun 21
+#e-Jul 25
+#a-
+#s-Jun 25
+#e-Jul 29
+#a-
+#s-Jul 5
+#e-Aug 8
+#a-
+#s-Jul 9
+#e-Aug 12
+#a-
+#s-Jul 12
+#e-Aug 15
+#a-
+#s-Jul 16
+#e-Aug 19
+#a-
+#s-Jul 16
+#e-Aug 19
+#a-
+#s-Jul 19
+#e-Aug 22
+#a-
+#s-Jul 23
+#e-Aug 26
+#a-
+#s-Jul 26
+#e-Aug 29
+#a-
+#s-Aug 2
+#e-Sep 5
+#a-
+#s-Aug 9
+#e-Sep 12
+#a-
+#s-Aug 13
+#e-Sep 16
+#a-
+#s-Aug 23
+#e-Sep 26
+#a-
+#s-Sep 6
+#e-Oct 10
+#a-
+#s-Sep 9
+#e-Oct 13
+#a-
+#s-Sep 17
+#e-Oct 21
+#a-
+#n-Grand Tour of Europe
+#u-https://www.efultimatebreak.com/trips/grand-tour-of-europe?si=4&qi=fe2ec76e6b0fd975508c4b434477d341
+#y-2021
+#s-Mar 28
+#e-Apr 26
+#a-Filling Fast
+#s-Apr 10
+#e-May 9
+#a-
+#s-Apr 24
+#e-May 23
+#a-
+#s-May 2
+#e-May 31
+#a-Filling Fast
+#s-May 16
+#e-Jun 14
+#a-Filling Fast
+#s-May 23
+#e-Jun 21
+#a-Filling Fast
+#s-Jun 1
+#e-Jun 30
+#a-Filling Fast
+#s-Jun 12
+#e-Jul 11
+#a-Filling Fast
+#s-Jun 19
+#e-Jul 18
+#a-Filling Fast
+#s-Jun 26
+#e-Jul 25
+#a-Filling Fast
+#s-Jul 10
+#e-Aug 8
+#a-Filling Fast
+#s-Jul 17
+#e-Aug 15
+#a-
+#s-Jul 24
+#e-Aug 22
+#a-
+#s-Jul 31
+#e-Aug 29
+#a-
+#s-Aug 7
+#e-Sep 5
+#a-
+#s-Aug 21
+#e-Sep 19
+#a-
+#s-Sep 11
+#e-Oct 10
+#a-
+#s-Sep 18
+#e-Oct 17
+#a-
+#y-2022
+#s-Mar 27
+#e-Apr 25
+#a-
+#s-Apr 9
+#e-May 8
+#a-
+#s-Apr 23
+#e-May 22
+#a-
+#s-May 1
+#e-May 30
+#a-
+#s-May 15
+#e-Jun 13
+#a-
+#s-May 22
+#e-Jun 20
+#a-
+#s-May 31
+#e-Jun 29
+#a-
+#s-Jun 11
+#e-Jul 10
+#a-
+#s-Jun 18
+#e-Jul 17
+#a-
+#s-Jun 25
+#e-Jul 24
+#a-
+#s-Jul 9
+#e-Aug 7
+#a-
+#s-Jul 16
+#e-Aug 14
+#a-
+#s-Jul 23
+#e-Aug 21
+#a-
+#s-Jul 30
+#e-Aug 28
+#a-
+#s-Aug 6
+#e-Sep 4
+#a-
+#s-Aug 20
+#e-Sep 18
+#a-
+#s-Sep 10
+#e-Oct 9
+#a-
+#s-Sep 17
+#e-Oct 16
+#a-
+#n-Highlights of Europe
+#u-https://www.efultimatebreak.com/trips/highlights-of-europe?si=4&qi=fe2ec76e6b0fd975508c4b434477d341
+#y-2021
+#s-Mar 29
+#e-Apr 21
+#a-
+#s-Apr 5
+#e-Apr 28
+#a-
+#s-May 3
+#e-May 26
+#a-
+#s-May 10
+#e-Jun 2
+#a-Filling Fast
+#s-May 24
+#e-Jun 16
+#a-Filling Fast
+#s-Jun 7
+#e-Jun 30
+#a-
+#s-Jun 14
+#e-Jul 7
+#a-
+#s-Jun 17
+#e-Jul 10
+#a-
+#s-Jun 21
+#e-Jul 14
+#a-
+#s-Jun 28
+#e-Jul 21
+#a-Filling Fast
+#s-Jul 12
+#e-Aug 4
+#a-Filling Fast
+#s-Jul 19
+#e-Aug 11
+#a-
+#s-Jul 26
+#e-Aug 18
+#a-
+#s-Aug 9
+#e-Sep 1
+#a-
+#s-Sep 6
+#e-Sep 29
+#a-
+#s-Sep 20
+#e-Oct 13
+#a-
+#y-2022
+#s-Mar 28
+#e-Apr 20
+#a-
+#s-Apr 4
+#e-Apr 27
+#a-
+#s-May 2
+#e-May 25
+#a-
+#s-May 9
+#e-Jun 1
+#a-
+#s-May 23
+#e-Jun 15
+#a-
+#s-Jun 6
+#e-Jun 29
+#a-
+#s-Jun 13
+#e-Jul 6
+#a-
+#s-Jun 16
+#e-Jul 9
+#a-
+#s-Jun 20
+#e-Jul 13
+#a-
+#s-Jun 27
+#e-Jul 20
+#a-
+#s-Jul 11
+#e-Aug 3
+#a-
+#s-Jul 18
+#e-Aug 10
+#a-
+#s-Jul 25
+#e-Aug 17
+#a-
+#s-Aug 8
+#e-Aug 31
+#a-
+#s-Sep 5
+#e-Sep 28
+#a-
+#s-Sep 19
+#e-Oct 12
+#a-
+#n-Australia & New Zealand Adventure
+#u-https://www.efultimatebreak.com/trips/australia-new-zealand-adventure?si=4&qi=fe2ec76e6b0fd975508c4b434477d341
+#y-2022
+#s-Mar 11
+#e-Mar 31
+#a-Filling Fast
+#s-May 13
+#e-Jun 2
+#a-Filling Fast
+#s-Jun 24
+#e-Jul 14
+#a-Filling Fast
+#s-Jul 1
+#e-Jul 21
+#a-Filling Fast
+#s-Aug 26
+#e-Sep 15
+#a-Filling Fast
+#s-Sep 9
+#e-Sep 29
+#a-Filling Fast
+#y-2021
+#s-Mar 12
+#e-Apr 1
+#a-Almost Full
+#s-May 14
+#e-Jun 3
+#a-Almost Full
+#s-Jun 25
+#e-Jul 15
+#a-Sold out
+#s-Jul 2
+#e-Jul 22
+#a-Almost Full
+#s-Aug 27
+#e-Sep 16
+#a-Filling Fast
+#s-Sep 10
+#e-Sep 30
+#a-Almost Full
+#s-Dec 27
+#e-Jan 16
+#a-Almost Full
+#y-2020
+#s-Dec 27
+#e-Jan 16
+#a-Almost Full
+#n-Thailand: Island Paradise
+#u-https://www.efultimatebreak.com/trips/thailand-island-paradise?si=4&qi=fe2ec76e6b0fd975508c4b434477d341
+#y-2022
+#s-Mar 17
+#e-Apr 7
+#a-
+#s-May 15
+#e-Jun 5
+#a-
+#s-Jun 19
+#e-Jul 10
+#a-
+#s-Jul 17
+#e-Aug 7
+#a-
+#s-Aug 14
+#e-Sep 4
+#a-
+#y-2021
+#s-Jan 14
+#e-Feb 4
+#a-Filling Fast
+#s-Mar 18
+#e-Apr 8
+#a-Filling Fast
+#s-Jun 20
+#e-Jul 11
+#a-Filling Fast
+#s-Aug 15
+#e-Sep 5
+#a-Filling Fast
+#y-2020
+#s-Dec 2
+#e-Dec 23
+#a-
+#s-Dec 28
+#e-Jan 18
+#a-Filling Fast
+#n-Ultimate Greek Islands
+#u-https://www.efultimatebreak.com/trips/ultimate-greek-islands?si=4&qi=fe2ec76e6b0fd975508c4b434477d341
+#y-2021
+#s-May 7
+#e-May 23
+#a-Almost Full
+#s-Jun 4
+#e-Jun 20
+#a-Almost Full
+#s-Jun 12
+#e-Jun 28
+#a-
+#s-Jun 20
+#e-Jul 6
+#a-Almost Full
+#s-Jul 2
+#e-Jul 18
+#a-Filling Fast
+#s-Jul 9
+#e-Jul 25
+#a-Almost Full
+#s-Jul 16
+#e-Aug 1
+#a-Almost Full
+#s-Aug 6
+#e-Aug 22
+#a-Filling Fast
+#s-Aug 13
+#e-Aug 29
+#a-
+#s-Sep 3
+#e-Sep 19
+#a-Filling Fast
+#s-Sep 17
+#e-Oct 3
+#a-Filling Fast
+#y-2022
+#s-May 6
+#e-May 22
+#a-
+#s-Jun 3
+#e-Jun 19
+#a-
+#s-Jun 19
+#e-Jul 5
+#a-
+#s-Jul 1
+#e-Jul 17
+#a-
+#s-Jul 8
+#e-Jul 24
+#a-
+#s-Jul 15
+#e-Jul 31
+#a-
+#s-Aug 5
+#e-Aug 21
+#a-
+#s-Aug 12
+#e-Aug 28
+#a-
+#s-Sep 2
+#e-Sep 18
+#a-
+#s-Sep 16
+#e-Oct 2
+#a-
+#n-European Road Trip
+#u-https://www.efultimatebreak.com/trips/european-road-trip?si=4&qi=fe2ec76e6b0fd975508c4b434477d341
+#y-2022
+#s-Mar 4
+#e-Mar 20
+#a-
+#s-Apr 8
+#e-Apr 24
+#a-
+#s-Apr 15
+#e-May 1
+#a-
+#s-May 6
+#e-May 22
+#a-
+#s-May 13
+#e-May 29
+#a-
+#s-May 20
+#e-Jun 5
+#a-
+#s-May 27
+#e-Jun 12
+#a-
+#s-Jun 3
+#e-Jun 19
+#a-
+#s-Jun 17
+#e-Jul 3
+#a-
+#s-Jun 24
+#e-Jul 10
+#a-
+#s-Jul 1
+#e-Jul 17
+#a-
+#s-Jul 15
+#e-Jul 31
+#a-
+#s-Jul 22
+#e-Aug 7
+#a-
+#s-Jul 29
+#e-Aug 14
+#a-
+#s-Aug 5
+#e-Aug 21
+#a-
+#s-Aug 12
+#e-Aug 28
+#a-
+#s-Aug 26
+#e-Sep 11
+#a-
+#s-Sep 2
+#e-Sep 18
+#a-
+#s-Sep 16
+#e-Oct 2
+#a-
+#y-2021
+#s-Mar 5
+#e-Mar 21
+#a-Filling Fast
+#s-Apr 9
+#e-Apr 25
+#a-
+#s-Apr 16
+#e-May 2
+#a-Filling Fast
+#s-May 7
+#e-May 23
+#a-Filling Fast
+#s-May 14
+#e-May 30
+#a-Almost Full
+#s-May 21
+#e-Jun 6
+#a-Filling Fast
+#s-May 28
+#e-Jun 13
+#a-Almost Full
+#s-Jun 4
+#e-Jun 20
+#a-Almost Full
+#s-Jun 18
+#e-Jul 4
+#a-Almost Full
+#s-Jun 25
+#e-Jul 11
+#a-Filling Fast
+#s-Jul 2
+#e-Jul 18
+#a-Filling Fast
+#s-Jul 16
+#e-Aug 1
+#a-Filling Fast
+#s-Jul 23
+#e-Aug 8
+#a-Filling Fast
+#s-Jul 30
+#e-Aug 15
+#a-
+#s-Aug 6
+#e-Aug 22
+#a-Filling Fast
+#s-Aug 13
+#e-Aug 29
+#a-
+#s-Aug 27
+#e-Sep 12
+#a-
+#s-Sep 3
+#e-Sep 19
+#a-Filling Fast
+#s-Sep 17
+#e-Oct 3
+#a-
+#s-Oct 15
+#e-Oct 31
+#a-
+#s-Dec 27
+#e-Jan 12
+#a-
+#y-2020
+#s-Dec 27
+#e-Jan 12
+#a-Almost Full
+#s-Dec 28
+#e-Jan 13
+#a-
+#s-Dec 28
+#e-Jan 13
+#a-
+#n-England, Scotland & Ireland
+#u-https://www.efultimatebreak.com/trips/england-scotland-ireland?si=4&qi=fe2ec76e6b0fd975508c4b434477d341
+#y-2022
+#s-Apr 7
+#e-Apr 23
+#a-
+#s-Apr 21
+#e-May 7
+#a-
+#s-May 5
+#e-May 21
+#a-
+#s-May 12
+#e-May 28
+#a-
+#s-May 26
+#e-Jun 11
+#a-
+#s-Jun 2
+#e-Jun 18
+#a-
+#s-Jun 9
+#e-Jun 25
+#a-
+#s-Jun 16
+#e-Jul 2
+#a-
+#s-Jun 23
+#e-Jul 9
+#a-
+#s-Jun 30
+#e-Jul 16
+#a-
+#s-Jul 14
+#e-Jul 30
+#a-
+#s-Jul 21
+#e-Aug 6
+#a-
+#s-Jul 21
+#e-Aug 6
+#a-
+#s-Aug 4
+#e-Aug 20
+#a-
+#s-Aug 18
+#e-Sep 3
+#a-
+#s-Aug 25
+#e-Sep 10
+#a-
+#s-Sep 1
+#e-Sep 17
+#a-
+#s-Sep 8
+#e-Sep 24
+#a-
+#s-Sep 15
+#e-Oct 1
+#a-
+#s-Sep 22
+#e-Oct 8
+#a-
+#y-2021
+#s-Apr 8
+#e-Apr 24
+#a-Filling Fast
+#s-Apr 22
+#e-May 8
+#a-Filling Fast
+#s-May 6
+#e-May 22
+#a-Filling Fast
+#s-May 13
+#e-May 29
+#a-Filling Fast
+#s-May 20
+#e-Jun 5
+#a-Filling Fast
+#s-May 27
+#e-Jun 12
+#a-Filling Fast
+#s-Jun 3
+#e-Jun 19
+#a-
+#s-Jun 10
+#e-Jun 26
+#a-Filling Fast
+#s-Jun 17
+#e-Jul 3
+#a-Filling Fast
+#s-Jun 24
+#e-Jul 10
+#a-Filling Fast
+#s-Jul 1
+#e-Jul 17
+#a-
+#s-Jul 8
+#e-Jul 24
+#a-
+#s-Jul 15
+#e-Jul 31
+#a-Filling Fast
+#s-Jul 22
+#e-Aug 7
+#a-
+#s-Aug 5
+#e-Aug 21
+#a-
+#s-Aug 19
+#e-Sep 4
+#a-
+#s-Aug 26
+#e-Sep 11
+#a-
+#s-Sep 2
+#e-Sep 18
+#a-
+#s-Sep 9
+#e-Sep 25
+#a-Filling Fast
+#s-Sep 16
+#e-Oct 2
+#a-
+#s-Sep 23
+#e-Oct 9
+#a-
+#s-Oct 14
+#e-Oct 30
+#a-
+#s-Dec 25
+#e-Jan 10
+#a-
+#s-Dec 29
+#e-Jan 14
+#a-
+#y-2020
+#s-Dec 25
+#e-Jan 10
+#a-Filling Fast
+#s-Dec 29
+#e-Jan 14
+#a-Filling Fast
+#n-Highlights of Eastern Europe
+#u-https://www.efultimatebreak.com/trips/highlights-of-eastern-europe?si=4&qi=fe2ec76e6b0fd975508c4b434477d341
+#y-2022
+#s-Mar 11
+#e-Mar 27
+#a-
+#s-May 6
+#e-May 22
+#a-
+#s-May 20
+#e-Jun 5
+#a-
+#s-Jun 2
+#e-Jun 18
+#a-
+#s-Jun 16
+#e-Jul 2
+#a-
+#s-Jul 1
+#e-Jul 17
+#a-
+#s-Jul 16
+#e-Aug 1
+#a-
+#s-Jul 28
+#e-Aug 13
+#a-
+#s-Aug 4
+#e-Aug 20
+#a-
+#s-Aug 11
+#e-Aug 27
+#a-
+#s-Sep 1
+#e-Sep 17
+#a-
+#s-Sep 15
+#e-Oct 1
+#a-
+#y-2021
+#s-Mar 12
+#e-Mar 28
+#a-Filling Fast
+#s-May 7
+#e-May 23
+#a-Filling Fast
+#s-May 21
+#e-Jun 6
+#a-Filling Fast
+#s-Jun 3
+#e-Jun 19
+#a-Filling Fast
+#s-Jun 17
+#e-Jul 3
+#a-Almost Full
+#s-Jul 2
+#e-Jul 18
+#a-Filling Fast
+#s-Jul 17
+#e-Aug 2
+#a-Filling Fast
+#s-Jul 29
+#e-Aug 14
+#a-
+#s-Aug 5
+#e-Aug 21
+#a-
+#s-Aug 12
+#e-Aug 28
+#a-
+#s-Sep 2
+#e-Sep 18
+#a-Filling Fast
+#s-Sep 16
+#e-Oct 2
+#a-Filling Fast
+#s-Dec 29
+#e-Jan 14
+#a-Filling Fast
+#y-2020
+#s-Dec 28
+#e-Jan 13
+#a-Filling Fast
+#s-Dec 29
+#e-Jan 14
+#a-Filling Fast
+#n-Spain, Morocco and Portugal
+#u-https://www.efultimatebreak.com/trips/spain-portugal-morocco?si=4&qi=fe2ec76e6b0fd975508c4b434477d341
+#y-2022
+#s-Feb 25
+#e-Mar 13
+#a-
+#s-Mar 11
+#e-Mar 27
+#a-
+#s-Mar 17
+#e-Apr 2
+#a-
+#s-May 6
+#e-May 22
+#a-
+#s-May 20
+#e-Jun 5
+#a-
+#s-Jun 3
+#e-Jun 19
+#a-
+#s-Jun 9
+#e-Jun 25
+#a-
+#s-Jun 24
+#e-Jul 10
+#a-
+#s-Jul 8
+#e-Jul 24
+#a-
+#s-Jul 21
+#e-Aug 6
+#a-
+#s-Aug 5
+#e-Aug 21
+#a-
+#s-Aug 19
+#e-Sep 4
+#a-
+#s-Sep 2
+#e-Sep 18
+#a-
+#s-Sep 16
+#e-Oct 2
+#a-
+#y-2021
+#s-Feb 26
+#e-Mar 14
+#a-
+#s-Mar 12
+#e-Mar 28
+#a-
+#s-Mar 18
+#e-Apr 3
+#a-
+#s-May 7
+#e-May 23
+#a-
+#s-May 21
+#e-Jun 6
+#a-
+#s-Jun 4
+#e-Jun 20
+#a-Filling Fast
+#s-Jun 10
+#e-Jun 26
+#a-Filling Fast
+#s-Jun 25
+#e-Jul 11
+#a-Filling Fast
+#s-Jul 9
+#e-Jul 25
+#a-
+#s-Jul 22
+#e-Aug 7
+#a-Almost Full
+#s-Aug 6
+#e-Aug 22
+#a-
+#s-Aug 20
+#e-Sep 5
+#a-
+#s-Sep 3
+#e-Sep 19
+#a-Filling Fast
+#s-Sep 17
+#e-Oct 3
+#a-Filling Fast
+#s-Oct 5
+#e-Oct 21
+#a-
+#s-Nov 12
+#e-Nov 28
+#a-
+#s-Dec 3
+#e-Dec 19
+#a-
+#y-2020
+#s-Nov 13
+#e-Nov 29
+#a-
+#s-Dec 4
+#e-Dec 20
+#a-
+#n-Italy, France & Spain
+#u-https://www.efultimatebreak.com/trips/italy-france-spain?si=4&qi=fe2ec76e6b0fd975508c4b434477d341
+#y-2021
+#s-Apr 24
+#e-May 9
+#a-
+#s-May 8
+#e-May 23
+#a-Filling Fast
+#s-May 15
+#e-May 30
+#a-Filling Fast
+#s-Jun 5
+#e-Jun 20
+#a-Filling Fast
+#s-Jun 12
+#e-Jun 27
+#a-Filling Fast
+#s-Jun 19
+#e-Jul 4
+#a-Filling Fast
+#s-Jul 3
+#e-Jul 18
+#a-
+#s-Jul 10
+#e-Jul 25
+#a-Filling Fast
+#s-Jul 17
+#e-Aug 1
+#a-
+#s-Jul 24
+#e-Aug 8
+#a-
+#s-Jul 31
+#e-Aug 15
+#a-
+#s-Aug 21
+#e-Sep 5
+#a-
+#s-Sep 4
+#e-Sep 19
+#a-
+#s-Sep 11
+#e-Sep 26
+#a-
+#y-2020
+#s-Dec 29
+#e-Jan 13
+#a-
+#n-Ultimate Italy
+#u-https://www.efultimatebreak.com/trips/ultimate-italy?si=4&qi=fe2ec76e6b0fd975508c4b434477d341
+#y-2021
+#s-Apr 10
+#e-Apr 26
+#a-
+#s-May 8
+#e-May 24
+#a-
+#s-May 15
+#e-May 31
+#a-
+#s-Jun 5
+#e-Jun 21
+#a-Filling Fast
+#s-Jun 19
+#e-Jul 5
+#a-Filling Fast
+#s-Jul 10
+#e-Jul 26
+#a-Filling Fast
+#s-Jul 24
+#e-Aug 9
+#a-
+#s-Jul 31
+#e-Aug 16
+#a-
+#s-Aug 19
+#e-Sep 4
+#a-
+#s-Sep 11
+#e-Sep 27
+#a-Filling Fast
+#y-2022
+#s-Apr 9
+#e-Apr 25
+#a-
+#s-May 7
+#e-May 23
+#a-
+#s-May 14
+#e-May 30
+#a-
+#s-Jun 4
+#e-Jun 20
+#a-
+#s-Jun 18
+#e-Jul 4
+#a-
+#s-Jul 9
+#e-Jul 25
+#a-
+#s-Jul 23
+#e-Aug 8
+#a-
+#s-Jul 30
+#e-Aug 15
+#a-
+#s-Aug 18
+#e-Sep 3
+#a-
+#s-Sep 1
+#e-Sep 17
+#a-
+#n-Italy & The Greek Islands
+#u-https://www.efultimatebreak.com/trips/italy-the-greek-islands?si=4&qi=fe2ec76e6b0fd975508c4b434477d341
+#y-2022
+#s-Apr 8
+#e-Apr 22
+#a-
+#s-Apr 15
+#e-Apr 29
+#a-
+#s-May 6
+#e-May 20
+#a-
+#s-May 15
+#e-May 29
+#a-
+#s-May 20
+#e-Jun 3
+#a-
+#s-Jun 3
+#e-Jun 17
+#a-
+#s-Jun 10
+#e-Jun 24
+#a-
+#s-Jun 17
+#e-Jul 1
+#a-
+#s-Jun 21
+#e-Jul 5
+#a-
+#s-Jul 1
+#e-Jul 15
+#a-
+#s-Jul 10
+#e-Jul 24
+#a-
+#s-Jul 15
+#e-Jul 29
+#a-
+#s-Jul 24
+#e-Aug 7
+#a-
+#s-Jul 29
+#e-Aug 12
+#a-
+#s-Aug 5
+#e-Aug 19
+#a-
+#s-Aug 14
+#e-Aug 28
+#a-
+#s-Aug 19
+#e-Sep 2
+#a-
+#s-Aug 28
+#e-Sep 11
+#a-
+#s-Sep 9
+#e-Sep 23
+#a-
+#s-Sep 18
+#e-Oct 2
+#a-
+#s-Sep 23
+#e-Oct 7
+#a-
+#y-2021
+#s-Feb 7
+#e-Feb 21
+#a-
+#s-Feb 21
+#e-Mar 7
+#a-
+#s-Mar 7
+#e-Mar 21
+#a-
+#s-Mar 21
+#e-Apr 4
+#a-
+#s-Apr 9
+#e-Apr 23
+#a-Filling Fast
+#s-Apr 11
+#e-Apr 25
+#a-
+#s-Apr 16
+#e-Apr 30
+#a-Filling Fast
+#s-May 7
+#e-May 21
+#a-Almost Full
+#s-May 16
+#e-May 30
+#a-Almost Full
+#s-May 21
+#e-Jun 4
+#a-Almost Full
+#s-Jun 4
+#e-Jun 18
+#a-Sold out
+#s-Jun 11
+#e-Jun 25
+#a-Almost Full
+#s-Jun 18
+#e-Jul 2
+#a-Almost Full
+#s-Jun 22
+#e-Jul 6
+#a-Filling Fast
+#s-Jul 2
+#e-Jul 16
+#a-Filling Fast
+#s-Jul 11
+#e-Jul 25
+#a-Filling Fast
+#s-Jul 16
+#e-Jul 30
+#a-Filling Fast
+#s-Jul 25
+#e-Aug 8
+#a-Filling Fast
+#s-Jul 30
+#e-Aug 13
+#a-Filling Fast
+#s-Aug 6
+#e-Aug 20
+#a-Filling Fast
+#s-Aug 15
+#e-Aug 29
+#a-Filling Fast
+#s-Aug 20
+#e-Sep 3
+#a-Filling Fast
+#s-Aug 29
+#e-Sep 12
+#a-
+#s-Sep 10
+#e-Sep 24
+#a-Filling Fast
+#s-Sep 19
+#e-Oct 3
+#a-Filling Fast
+#s-Sep 24
+#e-Oct 8
+#a-Filling Fast
+#y-2020
+#s-Oct 18
+#e-Nov 1
+#a-
+#s-Nov 8
+#e-Nov 22
+#a-
+#s-Dec 6
+#e-Dec 20
+#a-
+#s-Dec 29
+#e-Jan 12
+#a-Filling Fast
+#n-Highlights of Japan
+#u-https://www.efultimatebreak.com/trips/highlights-of-japan?si=4&qi=fe2ec76e6b0fd975508c4b434477d341
+#y-2022
+#s-Mar 27
+#e-Apr 9
+#a-
+#s-Apr 4
+#e-Apr 17
+#a-
+#s-Apr 11
+#e-Apr 24
+#a-
+#s-May 16
+#e-May 29
+#a-
+#s-Jun 5
+#e-Jun 18
+#a-
+#s-Jul 10
+#e-Jul 23
+#a-
+#s-Jul 24
+#e-Aug 6
+#a-
+#s-Aug 7
+#e-Aug 20
+#a-
+#s-Sep 4
+#e-Sep 17
+#a-
+#s-Sep 18
+#e-Oct 1
+#a-
+#y-2021
+#s-Mar 28
+#e-Apr 10
+#a-Almost Full
+#s-Apr 5
+#e-Apr 18
+#a-Almost Full
+#s-Apr 12
+#e-Apr 25
+#a-Almost Full
+#s-May 17
+#e-May 30
+#a-Almost Full
+#s-Jun 6
+#e-Jun 19
+#a-Filling Fast
+#s-Jun 20
+#e-Jul 3
+#a-Filling Fast
+#s-Sep 5
+#e-Sep 18
+#a-Filling Fast
+#s-Sep 19
+#e-Oct 2
+#a-Filling Fast
+#s-Oct 24
+#e-Nov 6
+#a-
+#s-Nov 7
+#e-Nov 20
+#a-
+#y-2020
+#s-Oct 25
+#e-Nov 7
+#a-
+#s-Nov 8
+#e-Nov 21
+#a-Filling Fast
+#n-Grand Tour of Turkey
+#u-https://www.efultimatebreak.com/trips/grand-tour-of-turkey?si=4&qi=fe2ec76e6b0fd975508c4b434477d341
+#y-2021
+#s-May 19
+#e-May 31
+#a-Almost Full
+#s-May 26
+#e-Jun 7
+#a-Filling Fast
+#s-Jun 1
+#e-Jun 13
+#a-Filling Fast
+#s-Jun 16
+#e-Jun 28
+#a-
+#s-Jun 30
+#e-Jul 12
+#a-Filling Fast
+#s-Jul 6
+#e-Jul 18
+#a-Filling Fast
+#s-Aug 11
+#e-Aug 23
+#a-
+#s-Aug 18
+#e-Aug 30
+#a-Filling Fast
+#s-Sep 15
+#e-Sep 27
+#a-Filling Fast
+#s-Sep 22
+#e-Oct 4
+#a-Filling Fast
+#s-Oct 12
+#e-Oct 24
+#a-
+#s-Nov 9
+#e-Nov 21
+#a-
+#y-2022
+#s-May 18
+#e-May 30
+#a-
+#s-May 25
+#e-Jun 6
+#a-
+#s-May 31
+#e-Jun 12
+#a-
+#s-Jun 15
+#e-Jun 27
+#a-
+#s-Jun 29
+#e-Jul 11
+#a-
+#s-Jul 5
+#e-Jul 17
+#a-
+#s-Aug 10
+#e-Aug 22
+#a-
+#s-Aug 17
+#e-Aug 29
+#a-
+#s-Sep 14
+#e-Sep 26
+#a-
+#s-Sep 21
+#e-Oct 3
+#a-
+#n-Cruise Croatia: Split to Split
+#u-https://www.efultimatebreak.com/trips/cruise-croatia-split-to-split?si=4&qi=fe2ec76e6b0fd975508c4b434477d341
+#y-2021
+#s-Jun 15
+#e-Jun 26
+#a-Almost Full
+#s-Jun 22
+#e-Jul 3
+#a-Almost Full
+#s-Jun 29
+#e-Jul 10
+#a-Almost Full
+#s-Jul 6
+#e-Jul 17
+#a-Almost Full
+#s-Jul 13
+#e-Jul 24
+#a-Almost Full
+#s-Aug 10
+#e-Aug 21
+#a-Almost Full
+#s-Aug 17
+#e-Aug 28
+#a-Almost Full
+#s-Aug 24
+#e-Sep 4
+#a-Almost Full
+#y-2022
+#s-Jun 21
+#e-Jul 2
+#a-Filling Fast
+#s-Jun 28
+#e-Jul 9
+#a-Filling Fast
+#s-Jul 5
+#e-Jul 16
+#a-Filling Fast
+#s-Jul 12
+#e-Jul 23
+#a-Filling Fast
+#s-Jul 19
+#e-Jul 30
+#a-Filling Fast
+#s-Jul 19
+#e-Jul 30
+#a-Filling Fast
+#s-Jul 26
+#e-Aug 6
+#a-Filling Fast
+#s-Aug 2
+#e-Aug 13
+#a-Filling Fast
+#s-Aug 9
+#e-Aug 20
+#a-Filling Fast
+#s-Aug 16
+#e-Aug 27
+#a-Filling Fast
+#s-Aug 23
+#e-Sep 3
+#a-Filling Fast
+#n-Hike Europe: The Alps
+#u-https://www.efultimatebreak.com/trips/hike-europe-the-alps?si=4&qi=fe2ec76e6b0fd975508c4b434477d341
+#y-2021
+#s-Jun 12
+#e-Jun 23
+#a-Almost Full
+#s-Jun 20
+#e-Jul 1
+#a-Almost Full
+#s-Jul 10
+#e-Jul 21
+#a-Almost Full
+#s-Jul 24
+#e-Aug 4
+#a-Filling Fast
+#s-Aug 7
+#e-Aug 18
+#a-Filling Fast
+#s-Aug 21
+#e-Sep 1
+#a-Almost Full
+#s-Sep 4
+#e-Sep 15
+#a-Almost Full
+#y-2022
+#s-Jun 11
+#e-Jun 22
+#a-Filling Fast
+#s-Jun 19
+#e-Jun 30
+#a-Filling Fast
+#s-Jul 9
+#e-Jul 20
+#a-Filling Fast
+#s-Jul 23
+#e-Aug 3
+#a-Filling Fast
+#s-Aug 6
+#e-Aug 17
+#a-Filling Fast
+#s-Aug 20
+#e-Aug 31
+#a-Filling Fast
+#s-Sep 3
+#e-Sep 14
+#a-Filling Fast
+#n-Active Ireland
+#u-https://www.efultimatebreak.com/trips/active-ireland?si=4&qi=fe2ec76e6b0fd975508c4b434477d341
+#y-2021
+#s-May 19
+#e-May 30
+#a-Sold out
+#s-Jun 16
+#e-Jun 27
+#a-Almost Full
+#s-Jul 7
+#e-Jul 18
+#a-Almost Full
+#s-Jul 21
+#e-Aug 1
+#a-Filling Fast
+#s-Aug 4
+#e-Aug 15
+#a-Filling Fast
+#s-Aug 11
+#e-Aug 22
+#a-Filling Fast
+#s-Sep 1
+#e-Sep 12
+#a-Filling Fast
+#s-Sep 8
+#e-Sep 19
+#a-Almost Full
+#y-2022
+#s-May 18
+#e-May 29
+#a-Filling Fast
+#s-Jun 15
+#e-Jun 26
+#a-Filling Fast
+#s-Jul 6
+#e-Jul 17
+#a-Filling Fast
+#s-Jul 20
+#e-Jul 31
+#a-Filling Fast
+#s-Aug 3
+#e-Aug 14
+#a-Filling Fast
+#s-Aug 31
+#e-Sep 11
+#a-Filling Fast
+#s-Sep 7
+#e-Sep 18
+#a-Filling Fast
+#n-Highlights of Australia
+#u-https://www.efultimatebreak.com/trips/highlights-of-australia?si=4&qi=fe2ec76e6b0fd975508c4b434477d341
+#y-2022
+#s-Mar 11
+#e-Mar 25
+#a-Filling Fast
+#s-May 13
+#e-May 27
+#a-Filling Fast
+#s-Jun 24
+#e-Jul 8
+#a-Filling Fast
+#s-Jul 1
+#e-Jul 15
+#a-Filling Fast
+#s-Aug 26
+#e-Sep 9
+#a-Filling Fast
+#s-Sep 9
+#e-Sep 23
+#a-Filling Fast
+#y-2021
+#s-Mar 12
+#e-Mar 26
+#a-Almost Full
+#s-May 14
+#e-May 28
+#a-Almost Full
+#s-Jun 25
+#e-Jul 9
+#a-Almost Full
+#s-Jul 2
+#e-Jul 16
+#a-Almost Full
+#s-Aug 27
+#e-Sep 10
+#a-Almost Full
+#s-Sep 10
+#e-Sep 24
+#a-Almost Full
+#s-Dec 19
+#e-Jan 2
+#a-Filling Fast
+#s-Dec 27
+#e-Jan 10
+#a-Almost Full
+#y-2020
+#s-Dec 19
+#e-Jan 2
+#a-Filling Fast
+#s-Dec 27
+#e-Jan 10
+#a-Almost Full
+#n-Israel & Jordan: Deserts & the Dead Sea
+#u-https://www.efultimatebreak.com/trips/israel-jordan-deserts-the-dead-sea?si=4&qi=fe2ec76e6b0fd975508c4b434477d341
+#y-2022
+#s-Apr 27
+#e-May 8
+#a-
+#s-May 18
+#e-May 29
+#a-
+#s-Jun 22
+#e-Jul 3
+#a-
+#s-Aug 17
+#e-Aug 28
+#a-
+#s-Aug 24
+#e-Sep 4
+#a-
+#s-Sep 28
+#e-Oct 9
+#a-
+#y-2021
+#s-Apr 28
+#e-May 9
+#a-
+#s-May 19
+#e-May 30
+#a-
+#s-Jun 23
+#e-Jul 4
+#a-Filling Fast
+#s-Jul 14
+#e-Jul 25
+#a-
+#s-Aug 18
+#e-Aug 29
+#a-
+#s-Aug 25
+#e-Sep 5
+#a-
+#s-Sep 29
+#e-Oct 10
+#a-
+#s-Oct 20
+#e-Oct 31
+#a-
+#y-2020
+#s-Oct 21
+#e-Nov 1
+#a-
+#n-New Year's in Thailand: Thailand Adventure
+#u-https://www.efultimatebreak.com/trips/new-years-in-thailand-thailand-adventure?si=4&qi=fe2ec76e6b0fd975508c4b434477d341
+#y-2020
+#s-Dec 26
+#e-Jan 8
+#a-Almost Full
+#s-Dec 28
+#e-Jan 10
+#a-Almost Full
+#s-Dec 29
+#e-Jan 11
+#a-Filling Fast
+#n-Germany, Italy and Switzerland
+#u-https://www.efultimatebreak.com/trips/germany-italy-switzerland?si=4&qi=fe2ec76e6b0fd975508c4b434477d341
+#y-2022
+#s-Feb 24
+#e-Mar 5
+#a-
+#s-Mar 3
+#e-Mar 12
+#a-
+#s-Mar 10
+#e-Mar 19
+#a-
+#s-Mar 10
+#e-Mar 19
+#a-
+#s-Mar 17
+#e-Mar 26
+#a-
+#s-Mar 24
+#e-Apr 2
+#a-
+#s-Mar 24
+#e-Apr 2
+#a-
+#s-Mar 31
+#e-Apr 9
+#a-
+#s-Apr 7
+#e-Apr 16
+#a-
+#s-Apr 14
+#e-Apr 23
+#a-
+#s-Apr 14
+#e-Apr 23
+#a-
+#s-Apr 21
+#e-Apr 30
+#a-
+#s-Apr 28
+#e-May 7
+#a-
+#s-May 5
+#e-May 14
+#a-
+#s-May 12
+#e-May 21
+#a-
+#s-May 12
+#e-May 21
+#a-
+#s-May 19
+#e-May 28
+#a-
+#s-May 26
+#e-Jun 4
+#a-
+#s-May 26
+#e-Jun 4
+#a-
+#s-Jun 2
+#e-Jun 11
+#a-
+#s-Jun 7
+#e-Jun 16
+#a-
+#s-Jun 9
+#e-Jun 18
+#a-
+#s-Jun 9
+#e-Jun 18
+#a-
+#s-Jun 16
+#e-Jun 25
+#a-
+#s-Jun 21
+#e-Jun 30
+#a-
+#s-Jun 23
+#e-Jul 2
+#a-
+#s-Jun 23
+#e-Jul 2
+#a-
+#s-Jun 30
+#e-Jul 9
+#a-
+#s-Jul 7
+#e-Jul 16
+#a-
+#s-Jul 7
+#e-Jul 16
+#a-
+#s-Jul 7
+#e-Jul 16
+#a-
+#s-Jul 14
+#e-Jul 23
+#a-
+#s-Jul 21
+#e-Jul 30
+#a-
+#s-Jul 21
+#e-Jul 30
+#a-
+#s-Jul 28
+#e-Aug 6
+#a-
+#s-Aug 2
+#e-Aug 11
+#a-
+#s-Aug 4
+#e-Aug 13
+#a-
+#s-Aug 4
+#e-Aug 13
+#a-
+#s-Aug 11
+#e-Aug 20
+#a-
+#s-Aug 18
+#e-Aug 27
+#a-
+#s-Aug 18
+#e-Aug 27
+#a-
+#s-Aug 25
+#e-Sep 3
+#a-
+#s-Sep 1
+#e-Sep 10
+#a-
+#s-Sep 8
+#e-Sep 17
+#a-
+#s-Sep 8
+#e-Sep 17
+#a-
+#s-Sep 15
+#e-Sep 24
+#a-
+#s-Sep 22
+#e-Oct 1
+#a-
+#s-Sep 22
+#e-Oct 1
+#a-
+#s-Sep 29
+#e-Oct 8
+#a-
+#y-2021
+#s-Jan 14
+#e-Jan 23
+#a-Filling Fast
+#s-Jan 28
+#e-Feb 6
+#a-Filling Fast
+#s-Feb 25
+#e-Mar 6
+#a-Filling Fast
+#s-Mar 4
+#e-Mar 13
+#a-Filling Fast
+#s-Mar 11
+#e-Mar 20
+#a-Filling Fast
+#s-Mar 11
+#e-Mar 20
+#a-Filling Fast
+#s-Mar 18
+#e-Mar 27
+#a-
+#s-Mar 25
+#e-Apr 3
+#a-
+#s-Mar 25
+#e-Apr 3
+#a-Filling Fast
+#s-Apr 1
+#e-Apr 10
+#a-Filling Fast
+#s-Apr 8
+#e-Apr 17
+#a-
+#s-Apr 15
+#e-Apr 24
+#a-Filling Fast
+#s-Apr 15
+#e-Apr 24
+#a-Filling Fast
+#s-Apr 22
+#e-May 1
+#a-Filling Fast
+#s-Apr 29
+#e-May 8
+#a-
+#s-May 6
+#e-May 15
+#a-Filling Fast
+#s-May 13
+#e-May 22
+#a-Sold out
+#s-May 13
+#e-May 22
+#a-Almost Full
+#s-May 20
+#e-May 29
+#a-Almost Full
+#s-May 27
+#e-Jun 5
+#a-Filling Fast
+#s-May 27
+#e-Jun 5
+#a-Filling Fast
+#s-Jun 3
+#e-Jun 12
+#a-Filling Fast
+#s-Jun 8
+#e-Jun 17
+#a-Filling Fast
+#s-Jun 10
+#e-Jun 19
+#a-Almost Full
+#s-Jun 10
+#e-Jun 19
+#a-
+#s-Jun 17
+#e-Jun 26
+#a-Filling Fast
+#s-Jun 22
+#e-Jul 1
+#a-Filling Fast
+#s-Jun 24
+#e-Jul 3
+#a-Filling Fast
+#s-Jun 24
+#e-Jul 3
+#a-Filling Fast
+#s-Jul 1
+#e-Jul 10
+#a-Filling Fast
+#s-Jul 8
+#e-Jul 17
+#a-Filling Fast
+#s-Jul 8
+#e-Jul 17
+#a-Filling Fast
+#s-Jul 15
+#e-Jul 24
+#a-Filling Fast
+#s-Jul 22
+#e-Jul 31
+#a-Filling Fast
+#s-Jul 22
+#e-Jul 31
+#a-Filling Fast
+#s-Jul 29
+#e-Aug 7
+#a-
+#s-Aug 3
+#e-Aug 12
+#a-
+#s-Aug 5
+#e-Aug 14
+#a-Filling Fast
+#s-Aug 5
+#e-Aug 14
+#a-
+#s-Aug 12
+#e-Aug 21
+#a-Filling Fast
+#s-Aug 19
+#e-Aug 28
+#a-Filling Fast
+#s-Aug 19
+#e-Aug 28
+#a-Filling Fast
+#s-Aug 26
+#e-Sep 4
+#a-Filling Fast
+#s-Sep 2
+#e-Sep 11
+#a-Filling Fast
+#s-Sep 9
+#e-Sep 18
+#a-Filling Fast
+#s-Sep 9
+#e-Sep 18
+#a-Filling Fast
+#s-Sep 16
+#e-Sep 25
+#a-Filling Fast
+#s-Sep 17
+#e-Sep 26
+#a-Sold out
+#s-Sep 21
+#e-Sep 30
+#a-Almost Full
+#s-Sep 23
+#e-Oct 2
+#a-Filling Fast
+#s-Sep 23
+#e-Oct 2
+#a-Filling Fast
+#s-Sep 30
+#e-Oct 9
+#a-Filling Fast
+#s-Oct 7
+#e-Oct 16
+#a-
+#s-Oct 14
+#e-Oct 23
+#a-
+#s-Oct 28
+#e-Nov 6
+#a-
+#s-Nov 4
+#e-Nov 13
+#a-
+#s-Dec 2
+#e-Dec 11
+#a-
+#s-Dec 9
+#e-Dec 18
+#a-
+#s-Dec 26
+#e-Jan 4
+#a-
+#s-Dec 26
+#e-Jan 4
+#a-
+#y-2020
+#s-Oct 29
+#e-Nov 7
+#a-
+#s-Nov 5
+#e-Nov 14
+#a-
+#s-Dec 3
+#e-Dec 12
+#a-Filling Fast
+#s-Dec 10
+#e-Dec 19
+#a-Filling Fast
+#s-Dec 26
+#e-Jan 4
+#a-Filling Fast
+#n-The Greek Islands
+#u-https://www.efultimatebreak.com/trips/the-greek-islands?si=4&qi=fe2ec76e6b0fd975508c4b434477d341
+#y-2021
+#s-May 1
+#e-May 11
+#a-Almost Full
+#s-May 3
+#e-May 13
+#a-Filling Fast
+#s-May 5
+#e-May 15
+#a-Almost Full
+#s-May 7
+#e-May 17
+#a-Filling Fast
+#s-May 9
+#e-May 19
+#a-Filling Fast
+#s-May 11
+#e-May 21
+#a-Almost Full
+#s-May 11
+#e-May 21
+#a-Almost Full
+#s-May 13
+#e-May 23
+#a-Filling Fast
+#s-May 15
+#e-May 25
+#a-Filling Fast
+#s-May 17
+#e-May 27
+#a-
+#s-May 19
+#e-May 29
+#a-Almost Full
+#s-May 21
+#e-May 31
+#a-Filling Fast
+#s-May 23
+#e-Jun 2
+#a-Filling Fast
+#s-May 25
+#e-Jun 4
+#a-Almost Full
+#s-May 25
+#e-Jun 4
+#a-Almost Full
+#s-May 29
+#e-Jun 8
+#a-Almost Full
+#s-Jun 2
+#e-Jun 12
+#a-Almost Full
+#s-Jun 4
+#e-Jun 14
+#a-Almost Full
+#s-Jun 6
+#e-Jun 16
+#a-Filling Fast
+#s-Jun 6
+#e-Jun 16
+#a-Almost Full
+#s-Jun 8
+#e-Jun 18
+#a-Filling Fast
+#s-Jun 10
+#e-Jun 20
+#a-Filling Fast
+#s-Jun 12
+#e-Jun 22
+#a-Filling Fast
+#s-Jun 14
+#e-Jun 24
+#a-Filling Fast
+#s-Jun 16
+#e-Jun 26
+#a-Filling Fast
+#s-Jun 16
+#e-Jun 26
+#a-Almost Full
+#s-Jun 18
+#e-Jun 28
+#a-Filling Fast
+#s-Jun 20
+#e-Jun 30
+#a-Filling Fast
+#s-Jun 22
+#e-Jul 2
+#a-Filling Fast
+#s-Jun 24
+#e-Jul 4
+#a-Filling Fast
+#s-Jul 5
+#e-Jul 15
+#a-Filling Fast
+#s-Jul 7
+#e-Jul 17
+#a-Filling Fast
+#s-Jul 9
+#e-Jul 19
+#a-Almost Full
+#s-Jul 9
+#e-Jul 19
+#a-Sold out
+#s-Jul 11
+#e-Jul 21
+#a-Filling Fast
+#s-Jul 13
+#e-Jul 23
+#a-Filling Fast
+#s-Jul 15
+#e-Jul 25
+#a-Filling Fast
+#s-Jul 17
+#e-Jul 27
+#a-
+#s-Jul 19
+#e-Jul 29
+#a-Filling Fast
+#s-Jul 21
+#e-Jul 31
+#a-Filling Fast
+#s-Jul 21
+#e-Jul 31
+#a-Almost Full
+#s-Jul 23
+#e-Aug 2
+#a-Filling Fast
+#s-Jul 25
+#e-Aug 4
+#a-
+#s-Jul 27
+#e-Aug 6
+#a-
+#s-Aug 1
+#e-Aug 11
+#a-Filling Fast
+#s-Aug 3
+#e-Aug 13
+#a-
+#s-Aug 5
+#e-Aug 15
+#a-Filling Fast
+#s-Aug 5
+#e-Aug 15
+#a-Filling Fast
+#s-Aug 7
+#e-Aug 17
+#a-Almost Full
+#s-Aug 14
+#e-Aug 24
+#a-Filling Fast
+#s-Aug 19
+#e-Aug 29
+#a-Filling Fast
+#s-Aug 19
+#e-Aug 29
+#a-Filling Fast
+#s-Aug 21
+#e-Aug 31
+#a-Filling Fast
+#s-Aug 23
+#e-Sep 2
+#a-
+#s-Aug 25
+#e-Sep 4
+#a-
+#s-Aug 27
+#e-Sep 6
+#a-Filling Fast
+#s-Aug 29
+#e-Sep 8
+#a-
+#s-Aug 31
+#e-Sep 10
+#a-Filling Fast
+#s-Sep 2
+#e-Sep 12
+#a-Filling Fast
+#s-Sep 2
+#e-Sep 12
+#a-Filling Fast
+#s-Sep 4
+#e-Sep 14
+#a-Filling Fast
+#s-Sep 9
+#e-Sep 19
+#a-Filling Fast
+#s-Sep 11
+#e-Sep 21
+#a-Filling Fast
+#s-Sep 15
+#e-Sep 25
+#a-Filling Fast
+#s-Sep 17
+#e-Sep 27
+#a-Almost Full
+#s-Sep 17
+#e-Sep 27
+#a-Almost Full
+#s-Oct 7
+#e-Oct 17
+#a-
+#s-Oct 7
+#e-Oct 17
+#a-Filling Fast
+#s-Oct 15
+#e-Oct 25
+#a-
+#y-2022
+#s-Apr 30
+#e-May 10
+#a-
+#s-May 2
+#e-May 12
+#a-
+#s-May 4
+#e-May 14
+#a-
+#s-May 6
+#e-May 16
+#a-
+#s-May 8
+#e-May 18
+#a-
+#s-May 10
+#e-May 20
+#a-
+#s-May 10
+#e-May 20
+#a-Filling Fast
+#s-May 12
+#e-May 22
+#a-
+#s-May 14
+#e-May 24
+#a-
+#s-May 16
+#e-May 26
+#a-
+#s-May 18
+#e-May 28
+#a-
+#s-May 20
+#e-May 30
+#a-
+#s-May 22
+#e-Jun 1
+#a-
+#s-May 24
+#e-Jun 3
+#a-
+#s-May 24
+#e-Jun 3
+#a-Filling Fast
+#s-May 28
+#e-Jun 7
+#a-
+#s-Jun 1
+#e-Jun 11
+#a-
+#s-Jun 3
+#e-Jun 13
+#a-
+#s-Jun 5
+#e-Jun 15
+#a-
+#s-Jun 5
+#e-Jun 15
+#a-Filling Fast
+#s-Jun 7
+#e-Jun 17
+#a-
+#s-Jun 9
+#e-Jun 19
+#a-
+#s-Jun 11
+#e-Jun 21
+#a-
+#s-Jun 13
+#e-Jun 23
+#a-
+#s-Jun 15
+#e-Jun 25
+#a-
+#s-Jun 15
+#e-Jun 25
+#a-Filling Fast
+#s-Jun 17
+#e-Jun 27
+#a-
+#s-Jun 19
+#e-Jun 29
+#a-
+#s-Jun 21
+#e-Jul 1
+#a-
+#s-Jun 23
+#e-Jul 3
+#a-
+#s-Jul 4
+#e-Jul 14
+#a-
+#s-Jul 6
+#e-Jul 16
+#a-
+#s-Jul 8
+#e-Jul 18
+#a-
+#s-Jul 8
+#e-Jul 18
+#a-Filling Fast
+#s-Jul 10
+#e-Jul 20
+#a-
+#s-Jul 12
+#e-Jul 22
+#a-
+#s-Jul 14
+#e-Jul 24
+#a-
+#s-Jul 16
+#e-Jul 26
+#a-
+#s-Jul 18
+#e-Jul 28
+#a-
+#s-Jul 18
+#e-Jul 28
+#a-
+#s-Jul 20
+#e-Jul 30
+#a-
+#s-Jul 20
+#e-Jul 30
+#a-Filling Fast
+#s-Jul 22
+#e-Aug 1
+#a-
+#s-Jul 24
+#e-Aug 3
+#a-
+#s-Jul 26
+#e-Aug 5
+#a-
+#s-Jul 31
+#e-Aug 10
+#a-
+#s-Aug 2
+#e-Aug 12
+#a-
+#s-Aug 4
+#e-Aug 14
+#a-
+#s-Aug 4
+#e-Aug 14
+#a-Filling Fast
+#s-Aug 6
+#e-Aug 16
+#a-
+#s-Aug 13
+#e-Aug 23
+#a-
+#s-Aug 18
+#e-Aug 28
+#a-
+#s-Aug 18
+#e-Aug 28
+#a-Filling Fast
+#s-Aug 20
+#e-Aug 30
+#a-
+#s-Aug 22
+#e-Sep 1
+#a-
+#s-Aug 24
+#e-Sep 3
+#a-
+#s-Aug 26
+#e-Sep 5
+#a-
+#s-Aug 28
+#e-Sep 7
+#a-
+#s-Aug 30
+#e-Sep 9
+#a-
+#s-Sep 1
+#e-Sep 11
+#a-
+#s-Sep 1
+#e-Sep 11
+#a-Filling Fast
+#s-Sep 3
+#e-Sep 13
+#a-
+#s-Sep 8
+#e-Sep 18
+#a-
+#s-Sep 10
+#e-Sep 20
+#a-
+#s-Sep 14
+#e-Sep 24
+#a-
+#s-Sep 16
+#e-Sep 26
+#a-
+#s-Sep 16
+#e-Sep 26
+#a-Filling Fast
+#n-Grand Tour of Ireland
+#u-https://www.efultimatebreak.com/trips/grand-tour-of-ireland?si=4&qi=fe2ec76e6b0fd975508c4b434477d341
+#y-2022
+#s-Feb 5
+#e-Feb 13
+#a-
+#s-Feb 19
+#e-Feb 27
+#a-
+#s-Mar 5
+#e-Mar 13
+#a-
+#s-Mar 5
+#e-Mar 13
+#a-
+#s-Mar 19
+#e-Mar 27
+#a-
+#s-Apr 2
+#e-Apr 10
+#a-
+#s-Apr 9
+#e-Apr 17
+#a-
+#s-Apr 16
+#e-Apr 24
+#a-
+#s-Apr 23
+#e-May 1
+#a-
+#s-Apr 30
+#e-May 8
+#a-
+#s-May 7
+#e-May 15
+#a-
+#s-May 7
+#e-May 15
+#a-
+#s-May 14
+#e-May 22
+#a-
+#s-May 21
+#e-May 29
+#a-
+#s-May 28
+#e-Jun 5
+#a-
+#s-May 28
+#e-Jun 5
+#a-
+#s-Jun 4
+#e-Jun 12
+#a-
+#s-Jun 9
+#e-Jun 17
+#a-
+#s-Jun 11
+#e-Jun 19
+#a-
+#s-Jun 11
+#e-Jun 19
+#a-
+#s-Jun 18
+#e-Jun 26
+#a-
+#s-Jun 23
+#e-Jul 1
+#a-
+#s-Jun 23
+#e-Jul 1
+#a-
+#s-Jun 25
+#e-Jul 3
+#a-
+#s-Jul 2
+#e-Jul 10
+#a-
+#s-Jul 9
+#e-Jul 17
+#a-
+#s-Jul 9
+#e-Jul 17
+#a-
+#s-Jul 13
+#e-Jul 21
+#a-
+#s-Jul 14
+#e-Jul 22
+#a-
+#s-Jul 16
+#e-Jul 24
+#a-
+#s-Jul 23
+#e-Jul 31
+#a-
+#s-Jul 23
+#e-Jul 31
+#a-
+#s-Jul 30
+#e-Aug 7
+#a-
+#s-Aug 4
+#e-Aug 12
+#a-
+#s-Aug 6
+#e-Aug 14
+#a-
+#s-Aug 13
+#e-Aug 21
+#a-
+#s-Aug 18
+#e-Aug 26
+#a-
+#s-Aug 20
+#e-Aug 28
+#a-
+#s-Aug 27
+#e-Sep 4
+#a-
+#s-Aug 27
+#e-Sep 4
+#a-
+#s-Sep 3
+#e-Sep 11
+#a-
+#s-Sep 8
+#e-Sep 16
+#a-
+#s-Sep 10
+#e-Sep 18
+#a-
+#s-Sep 10
+#e-Sep 18
+#a-
+#s-Sep 17
+#e-Sep 25
+#a-
+#s-Sep 24
+#e-Oct 2
+#a-
+#s-Sep 24
+#e-Oct 2
+#a-
+#y-2021
+#s-Jan 30
+#e-Feb 7
+#a-
+#s-Feb 6
+#e-Feb 14
+#a-
+#s-Feb 20
+#e-Feb 28
+#a-
+#s-Mar 6
+#e-Mar 14
+#a-Filling Fast
+#s-Mar 6
+#e-Mar 14
+#a-Filling Fast
+#s-Mar 11
+#e-Mar 19
+#a-Almost Full
+#s-Mar 11
+#e-Mar 19
+#a-Filling Fast
+#s-Mar 15
+#e-Mar 23
+#a-Filling Fast
+#s-Mar 15
+#e-Mar 23
+#a-Almost Full
+#s-Mar 20
+#e-Mar 28
+#a-
+#s-Apr 3
+#e-Apr 11
+#a-Filling Fast
+#s-Apr 10
+#e-Apr 18
+#a-Filling Fast
+#s-Apr 17
+#e-Apr 25
+#a-Filling Fast
+#s-Apr 24
+#e-May 2
+#a-Filling Fast
+#s-May 1
+#e-May 9
+#a-
+#s-May 8
+#e-May 16
+#a-Filling Fast
+#s-May 8
+#e-May 16
+#a-Filling Fast
+#s-May 15
+#e-May 23
+#a-Filling Fast
+#s-May 22
+#e-May 30
+#a-Filling Fast
+#s-May 29
+#e-Jun 6
+#a-Filling Fast
+#s-May 29
+#e-Jun 6
+#a-Filling Fast
+#s-Jun 5
+#e-Jun 13
+#a-Filling Fast
+#s-Jun 10
+#e-Jun 18
+#a-Filling Fast
+#s-Jun 12
+#e-Jun 20
+#a-Filling Fast
+#s-Jun 12
+#e-Jun 20
+#a-
+#s-Jun 19
+#e-Jun 27
+#a-Filling Fast
+#s-Jun 24
+#e-Jul 2
+#a-Filling Fast
+#s-Jun 24
+#e-Jul 2
+#a-Filling Fast
+#s-Jun 26
+#e-Jul 4
+#a-
+#s-Jul 3
+#e-Jul 11
+#a-Filling Fast
+#s-Jul 10
+#e-Jul 18
+#a-Filling Fast
+#s-Jul 10
+#e-Jul 18
+#a-Filling Fast
+#s-Jul 15
+#e-Jul 23
+#a-Filling Fast
+#s-Jul 17
+#e-Jul 25
+#a-
+#s-Jul 24
+#e-Aug 1
+#a-Filling Fast
+#s-Jul 24
+#e-Aug 1
+#a-Filling Fast
+#s-Jul 31
+#e-Aug 8
+#a-Filling Fast
+#s-Aug 5
+#e-Aug 13
+#a-
+#s-Aug 7
+#e-Aug 15
+#a-
+#s-Aug 14
+#e-Aug 22
+#a-
+#s-Aug 14
+#e-Aug 22
+#a-
+#s-Aug 19
+#e-Aug 27
+#a-Filling Fast
+#s-Aug 21
+#e-Aug 29
+#a-
+#s-Aug 28
+#e-Sep 5
+#a-
+#s-Aug 28
+#e-Sep 5
+#a-
+#s-Sep 4
+#e-Sep 12
+#a-Filling Fast
+#s-Sep 9
+#e-Sep 17
+#a-Filling Fast
+#s-Sep 11
+#e-Sep 19
+#a-
+#s-Sep 11
+#e-Sep 19
+#a-Filling Fast
+#s-Sep 18
+#e-Sep 26
+#a-Filling Fast
+#s-Sep 25
+#e-Oct 3
+#a-Filling Fast
+#s-Sep 25
+#e-Oct 3
+#a-
+#s-Oct 9
+#e-Oct 17
+#a-
+#s-Oct 16
+#e-Oct 24
+#a-
+#s-Oct 23
+#e-Oct 31
+#a-
+#s-Nov 6
+#e-Nov 14
+#a-
+#s-Nov 13
+#e-Nov 21
+#a-
+#s-Dec 4
+#e-Dec 12
+#a-
+#s-Dec 11
+#e-Dec 19
+#a-
+#s-Dec 27
+#e-Jan 4
+#a-
+#s-Dec 29
+#e-Jan 6
+#a-
+#y-2020
+#s-Oct 17
+#e-Oct 25
+#a-
+#s-Oct 24
+#e-Nov 1
+#a-Filling Fast
+#s-Nov 7
+#e-Nov 15
+#a-
+#s-Nov 14
+#e-Nov 22
+#a-
+#s-Dec 5
+#e-Dec 13
+#a-
+#s-Dec 12
+#e-Dec 20
+#a-
+#s-Dec 27
+#e-Jan 4
+#a-Almost Full
+#s-Dec 29
+#e-Jan 6
+#a-Filling Fast
+#n-Egypt Expedition
+#u-https://www.efultimatebreak.com/trips/egypt-expedition?si=4&qi=fe2ec76e6b0fd975508c4b434477d341
+#y-2022
+#s-Feb 3
+#e-Feb 13
+#a-
+#s-Feb 17
+#e-Feb 27
+#a-
+#s-Mar 3
+#e-Mar 13
+#a-
+#s-Mar 17
+#e-Mar 27
+#a-
+#s-Mar 31
+#e-Apr 10
+#a-
+#s-May 12
+#e-May 22
+#a-
+#s-May 26
+#e-Jun 5
+#a-
+#s-Jun 9
+#e-Jun 19
+#a-
+#s-Jun 23
+#e-Jul 3
+#a-
+#s-Sep 1
+#e-Sep 11
+#a-
+#s-Sep 15
+#e-Sep 25
+#a-
+#y-2021
+#s-Feb 4
+#e-Feb 14
+#a-Filling Fast
+#s-Feb 18
+#e-Feb 28
+#a-Filling Fast
+#s-Mar 4
+#e-Mar 14
+#a-Almost Full
+#s-Mar 18
+#e-Mar 28
+#a-Filling Fast
+#s-Apr 1
+#e-Apr 11
+#a-Filling Fast
+#s-May 13
+#e-May 23
+#a-
+#s-May 27
+#e-Jun 6
+#a-Filling Fast
+#s-Jun 10
+#e-Jun 20
+#a-Filling Fast
+#s-Jun 24
+#e-Jul 4
+#a-Filling Fast
+#s-Sep 2
+#e-Sep 12
+#a-Filling Fast
+#s-Sep 16
+#e-Sep 26
+#a-Filling Fast
+#s-Sep 30
+#e-Oct 10
+#a-Filling Fast
+#s-Nov 18
+#e-Nov 28
+#a-Filling Fast
+#s-Dec 2
+#e-Dec 12
+#a-
+#y-2020
+#s-Nov 19
+#e-Nov 29
+#a-Almost Full
+#s-Dec 3
+#e-Dec 13
+#a-Filling Fast
+#n-Costa Rica Adventure
+#u-https://www.efultimatebreak.com/trips/costa-rica-adventure?si=4&qi=fe2ec76e6b0fd975508c4b434477d341
+#y-2022
+#s-Feb 4
+#e-Feb 13
+#a-
+#s-Feb 18
+#e-Feb 27
+#a-
+#s-Mar 4
+#e-Mar 13
+#a-
+#s-Mar 18
+#e-Mar 27
+#a-
+#s-Mar 25
+#e-Apr 3
+#a-
+#s-Apr 15
+#e-Apr 24
+#a-
+#s-Apr 22
+#e-May 1
+#a-
+#s-May 13
+#e-May 22
+#a-
+#s-May 20
+#e-May 29
+#a-
+#s-May 27
+#e-Jun 5
+#a-
+#s-Jun 3
+#e-Jun 12
+#a-
+#s-Jun 10
+#e-Jun 19
+#a-
+#s-Jun 17
+#e-Jun 26
+#a-
+#s-Jun 24
+#e-Jul 3
+#a-
+#s-Jul 8
+#e-Jul 17
+#a-
+#s-Jul 15
+#e-Jul 24
+#a-
+#s-Jul 22
+#e-Jul 31
+#a-
+#s-Jul 29
+#e-Aug 7
+#a-
+#s-Aug 5
+#e-Aug 14
+#a-
+#s-Aug 12
+#e-Aug 21
+#a-
+#s-Aug 19
+#e-Aug 28
+#a-
+#s-Aug 26
+#e-Sep 4
+#a-
+#s-Sep 2
+#e-Sep 11
+#a-
+#s-Sep 9
+#e-Sep 18
+#a-
+#s-Sep 16
+#e-Sep 25
+#a-
+#s-Sep 23
+#e-Oct 2
+#a-
+#y-2021
+#s-Jan 15
+#e-Jan 24
+#a-Almost Full
+#s-Feb 5
+#e-Feb 14
+#a-Filling Fast
+#s-Feb 19
+#e-Feb 28
+#a-Filling Fast
+#s-Mar 5
+#e-Mar 14
+#a-Filling Fast
+#s-Mar 12
+#e-Mar 21
+#a-Filling Fast
+#s-Mar 19
+#e-Mar 28
+#a-Filling Fast
+#s-Mar 26
+#e-Apr 4
+#a-Filling Fast
+#s-Apr 16
+#e-Apr 25
+#a-
+#s-Apr 23
+#e-May 2
+#a-Filling Fast
+#s-May 14
+#e-May 23
+#a-Filling Fast
+#s-May 21
+#e-May 30
+#a-
+#s-May 28
+#e-Jun 6
+#a-
+#s-Jun 4
+#e-Jun 13
+#a-Filling Fast
+#s-Jun 11
+#e-Jun 20
+#a-Filling Fast
+#s-Jun 18
+#e-Jun 27
+#a-Filling Fast
+#s-Jun 25
+#e-Jul 4
+#a-
+#s-Jul 9
+#e-Jul 18
+#a-
+#s-Jul 16
+#e-Jul 25
+#a-Filling Fast
+#s-Jul 23
+#e-Aug 1
+#a-Filling Fast
+#s-Jul 30
+#e-Aug 8
+#a-Filling Fast
+#s-Aug 6
+#e-Aug 15
+#a-Filling Fast
+#s-Aug 13
+#e-Aug 22
+#a-
+#s-Aug 20
+#e-Aug 29
+#a-
+#s-Aug 27
+#e-Sep 5
+#a-
+#s-Sep 3
+#e-Sep 12
+#a-
+#s-Sep 10
+#e-Sep 19
+#a-
+#s-Sep 17
+#e-Sep 26
+#a-
+#s-Sep 24
+#e-Oct 3
+#a-
+#s-Oct 15
+#e-Oct 24
+#a-
+#s-Nov 5
+#e-Nov 14
+#a-
+#s-Nov 26
+#e-Dec 5
+#a-
+#s-Dec 3
+#e-Dec 12
+#a-
+#s-Dec 10
+#e-Dec 19
+#a-
+#s-Dec 26
+#e-Jan 4
+#a-
+#s-Dec 28
+#e-Jan 6
+#a-
+#y-2020
+#s-Oct 16
+#e-Oct 25
+#a-
+#s-Nov 6
+#e-Nov 15
+#a-
+#s-Nov 27
+#e-Dec 6
+#a-
+#s-Dec 4
+#e-Dec 13
+#a-Filling Fast
+#s-Dec 11
+#e-Dec 20
+#a-Filling Fast
+#s-Dec 26
+#e-Jan 4
+#a-Almost Full
+#s-Dec 28
+#e-Jan 6
+#a-Almost Full
+#n-London & Paris Escape
+#u-https://www.efultimatebreak.com/trips/london-paris-escape?si=4&qi=fe2ec76e6b0fd975508c4b434477d341
+#y-2022
+#s-Feb 6
+#e-Feb 13
+#a-
+#s-Feb 13
+#e-Feb 20
+#a-
+#s-Mar 6
+#e-Mar 13
+#a-
+#s-Mar 13
+#e-Mar 20
+#a-
+#s-Mar 20
+#e-Mar 27
+#a-
+#s-Apr 10
+#e-Apr 17
+#a-
+#s-Apr 17
+#e-Apr 24
+#a-
+#s-Apr 24
+#e-May 1
+#a-
+#s-May 1
+#e-May 8
+#a-
+#s-May 8
+#e-May 15
+#a-
+#s-May 17
+#e-May 24
+#a-
+#s-May 22
+#e-May 29
+#a-
+#s-Jun 5
+#e-Jun 12
+#a-
+#s-Jun 16
+#e-Jun 23
+#a-
+#s-Jun 19
+#e-Jun 26
+#a-
+#s-Jun 26
+#e-Jul 3
+#a-
+#s-Jul 2
+#e-Jul 9
+#a-
+#s-Jul 10
+#e-Jul 17
+#a-
+#s-Jul 17
+#e-Jul 24
+#a-
+#s-Jul 24
+#e-Jul 31
+#a-
+#s-Jul 30
+#e-Aug 6
+#a-
+#s-Jul 31
+#e-Aug 7
+#a-
+#s-Aug 7
+#e-Aug 14
+#a-
+#s-Aug 14
+#e-Aug 21
+#a-
+#s-Aug 21
+#e-Aug 28
+#a-
+#s-Aug 28
+#e-Sep 4
+#a-
+#s-Sep 4
+#e-Sep 11
+#a-
+#s-Sep 11
+#e-Sep 18
+#a-
+#s-Sep 18
+#e-Sep 25
+#a-
+#s-Sep 25
+#e-Oct 2
+#a-
+#y-2021
+#s-Jan 10
+#e-Jan 17
+#a-Filling Fast
+#s-Feb 7
+#e-Feb 14
+#a-
+#s-Feb 14
+#e-Feb 21
+#a-
+#s-Mar 7
+#e-Mar 14
+#a-Filling Fast
+#s-Mar 14
+#e-Mar 21
+#a-Filling Fast
+#s-Mar 21
+#e-Mar 28
+#a-Filling Fast
+#s-Apr 11
+#e-Apr 18
+#a-Filling Fast
+#s-Apr 18
+#e-Apr 25
+#a-Filling Fast
+#s-Apr 25
+#e-May 2
+#a-
+#s-May 2
+#e-May 9
+#a-
+#s-May 9
+#e-May 16
+#a-
+#s-May 18
+#e-May 25
+#a-Filling Fast
+#s-May 23
+#e-May 30
+#a-Filling Fast
+#s-Jun 6
+#e-Jun 13
+#a-Filling Fast
+#s-Jun 17
+#e-Jun 24
+#a-Filling Fast
+#s-Jun 20
+#e-Jun 27
+#a-
+#s-Jun 27
+#e-Jul 4
+#a-
+#s-Jul 3
+#e-Jul 10
+#a-
+#s-Jul 11
+#e-Jul 18
+#a-
+#s-Jul 18
+#e-Jul 25
+#a-Filling Fast
+#s-Jul 25
+#e-Aug 1
+#a-Filling Fast
+#s-Jul 31
+#e-Aug 7
+#a-
+#s-Aug 1
+#e-Aug 8
+#a-
+#s-Aug 8
+#e-Aug 15
+#a-
+#s-Aug 15
+#e-Aug 22
+#a-
+#s-Aug 22
+#e-Aug 29
+#a-
+#s-Aug 29
+#e-Sep 5
+#a-Filling Fast
+#s-Sep 5
+#e-Sep 12
+#a-Filling Fast
+#s-Sep 12
+#e-Sep 19
+#a-
+#s-Sep 19
+#e-Sep 26
+#a-Filling Fast
+#s-Sep 26
+#e-Oct 3
+#a-Filling Fast
+#s-Oct 17
+#e-Oct 24
+#a-
+#s-Oct 31
+#e-Nov 7
+#a-
+#s-Nov 14
+#e-Nov 21
+#a-
+#s-Dec 12
+#e-Dec 19
+#a-
+#s-Dec 26
+#e-Jan 2
+#a-
+#s-Dec 29
+#e-Jan 5
+#a-
+#s-Dec 29
+#e-Jan 5
+#a-
+#y-2020
+#s-Oct 18
+#e-Oct 25
+#a-
+#s-Nov 1
+#e-Nov 8
+#a-
+#s-Nov 15
+#e-Nov 22
+#a-
+#s-Dec 13
+#e-Dec 20
+#a-Filling Fast
+#s-Dec 26
+#e-Jan 2
+#a-Filling Fast
+#s-Dec 26
+#e-Jan 2
+#a-Filling Fast
+#s-Dec 29
+#e-Jan 5
+#a-
+#s-Dec 29
+#e-Jan 5
+#a-Filling Fast
+#n-Greece Getaway: Athens to the Islands
+#u-https://www.efultimatebreak.com/trips/greek-island-getaway?si=4&qi=fe2ec76e6b0fd975508c4b434477d341
+#y-2021
+#s-May 14
+#e-May 22
+#a-Almost Full
+#s-May 25
+#e-Jun 2
+#a-Filling Fast
+#s-May 29
+#e-Jun 6
+#a-
+#s-Jun 5
+#e-Jun 13
+#a-Almost Full
+#s-Jun 12
+#e-Jun 20
+#a-Filling Fast
+#s-Jun 18
+#e-Jun 26
+#a-Filling Fast
+#s-Jun 24
+#e-Jul 2
+#a-Filling Fast
+#s-Jun 28
+#e-Jul 6
+#a-
+#s-Jul 3
+#e-Jul 11
+#a-Filling Fast
+#s-Jul 10
+#e-Jul 18
+#a-Filling Fast
+#s-Jul 17
+#e-Jul 25
+#a-Filling Fast
+#s-Jul 24
+#e-Aug 1
+#a-Filling Fast
+#s-Jul 31
+#e-Aug 8
+#a-
+#s-Aug 7
+#e-Aug 15
+#a-
+#s-Aug 14
+#e-Aug 22
+#a-Filling Fast
+#s-Aug 21
+#e-Aug 29
+#a-
+#s-Sep 4
+#e-Sep 12
+#a-
+#s-Sep 11
+#e-Sep 19
+#a-
+#s-Sep 17
+#e-Sep 25
+#a-
+#s-Sep 25
+#e-Oct 3
+#a-Filling Fast
+#y-2022
+#s-May 13
+#e-May 21
+#a-
+#s-May 24
+#e-Jun 1
+#a-
+#s-May 28
+#e-Jun 5
+#a-
+#s-Jun 4
+#e-Jun 12
+#a-
+#s-Jun 11
+#e-Jun 19
+#a-
+#s-Jun 17
+#e-Jun 25
+#a-
+#s-Jun 23
+#e-Jul 1
+#a-
+#s-Jun 27
+#e-Jul 5
+#a-
+#s-Jul 2
+#e-Jul 10
+#a-
+#s-Jul 9
+#e-Jul 17
+#a-
+#s-Jul 16
+#e-Jul 24
+#a-
+#s-Jul 23
+#e-Jul 31
+#a-
+#s-Jul 30
+#e-Aug 7
+#a-
+#s-Aug 6
+#e-Aug 14
+#a-
+#s-Aug 13
+#e-Aug 21
+#a-
+#s-Aug 20
+#e-Aug 28
+#a-
+#s-Aug 27
+#e-Sep 4
+#a-
+#s-Sep 3
+#e-Sep 11
+#a-
+#s-Sep 10
+#e-Sep 18
+#a-
+#s-Sep 16
+#e-Sep 24
+#a-
+#s-Sep 24
+#e-Oct 2
+#a-
+#n-Ibiza, Barcelona and Valencia
+#u-https://www.efultimatebreak.com/trips/ibiza-barcelona-valencia?si=4&qi=fe2ec76e6b0fd975508c4b434477d341
+#y-2021
+#s-May 7
+#e-May 16
+#a-Filling Fast
+#s-May 14
+#e-May 23
+#a-Filling Fast
+#s-May 21
+#e-May 30
+#a-Filling Fast
+#s-May 28
+#e-Jun 6
+#a-Almost Full
+#s-Jun 4
+#e-Jun 13
+#a-Filling Fast
+#s-Jun 11
+#e-Jun 20
+#a-Filling Fast
+#s-Jun 18
+#e-Jun 27
+#a-Filling Fast
+#s-Jun 25
+#e-Jul 4
+#a-Filling Fast
+#s-Jul 2
+#e-Jul 11
+#a-Almost Full
+#s-Jul 9
+#e-Jul 18
+#a-Almost Full
+#s-Jul 16
+#e-Jul 25
+#a-Almost Full
+#s-Jul 23
+#e-Aug 1
+#a-Filling Fast
+#s-Jul 30
+#e-Aug 8
+#a-Filling Fast
+#s-Aug 6
+#e-Aug 15
+#a-
+#s-Aug 13
+#e-Aug 22
+#a-Filling Fast
+#s-Aug 20
+#e-Aug 29
+#a-
+#s-Aug 27
+#e-Sep 5
+#a-
+#s-Sep 3
+#e-Sep 12
+#a-Filling Fast
+#s-Sep 10
+#e-Sep 19
+#a-Filling Fast
+#y-2022
+#s-May 6
+#e-May 15
+#a-
+#s-May 6
+#e-May 15
+#a-
+#s-May 13
+#e-May 22
+#a-
+#s-May 20
+#e-May 29
+#a-
+#s-May 27
+#e-Jun 5
+#a-
+#s-Jun 3
+#e-Jun 12
+#a-
+#s-Jun 10
+#e-Jun 19
+#a-
+#s-Jun 17
+#e-Jun 26
+#a-
+#s-Jun 24
+#e-Jul 3
+#a-
+#s-Jul 1
+#e-Jul 10
+#a-
+#s-Jul 8
+#e-Jul 17
+#a-
+#s-Jul 15
+#e-Jul 24
+#a-
+#s-Jul 22
+#e-Jul 31
+#a-
+#s-Jul 29
+#e-Aug 7
+#a-
+#s-Aug 5
+#e-Aug 14
+#a-
+#s-Aug 12
+#e-Aug 21
+#a-
+#s-Aug 19
+#e-Aug 28
+#a-
+#s-Aug 26
+#e-Sep 4
+#a-
+#s-Sep 2
+#e-Sep 11
+#a-
+#s-Sep 9
+#e-Sep 18
+#a-
