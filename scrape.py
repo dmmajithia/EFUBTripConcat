@@ -16,7 +16,8 @@ year_buttons_class = "iYkdPv"
 date_li_class = "departure-selector__DepartureListItem-vtvk14-3"
 date_start_end_class = "departure-date__InnerDateDiv-sc-1a35nt3-7"
 date_avail_class = "departure-date__Availability-sc-1a35nt3-2"
-chromedriver = "/Users/dhawalmajithia/Desktop/works/test/ef_scrap/EFUBTripConcat/chromedriver"
+# chromedriver = "/Users/dhawalmajithia/Desktop/works/test/ef_scrap/EFUBTripConcat/chromedriver"
+chromedriver = "usr/local/bin/chromedriver"
 
 # threading related source from - 
 # https://stackoverflow.com/questions/19846332/python-threading-inside-a-class
