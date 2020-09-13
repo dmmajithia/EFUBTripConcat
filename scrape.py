@@ -13,7 +13,21 @@ from selenium.webdriver.support import expected_conditions as EC
 dests_class = "tour-tile__TileContainer-henuwi-3"
 dest_title_class = "itinerary-header__Title-wtfiof-5"
 year_buttons_class = "iYkdPv"
+date_li_class = "departure-selector__DepartureListItem-vtvk14-3"
+date_start_end_class = "departure-date__InnerDateDiv-sc-1a35nt3-7"
+date_avail_class = "departure-date__Availability-sc-1a35nt3-2"
+chromedriver = "/Users/dhawalmajithia/Desktop/works/test/ef_scrap/EFUBTripConcat/chromedriver"
 
+#  ds = driver.find_elements_by_class_name("departure-selector__DepartureListItem-vtvk14-3")
+# >>> x= ds[0].find_element_by_class_name("departure-date__InnerDateDiv-sc-1a35nt3-7")
+# >>> x.get_attribute('textContent')
+# 'Jun 3'
+
+# s = ds[0].find_element_by_class_name("departure-date__DateDiv-sc-1a35nt3-3")
+# s.get_attribute('textContent')
+# 'ThuJun 3'
+
+# departure-date__Availability-sc-1a35nt3-2
 
 # threading related source from - 
 # https://stackoverflow.com/questions/19846332/python-threading-inside-a-class
@@ -37,11 +51,20 @@ def get_driver(link):
 	options.add_argument('--headless')
 	options.add_argument('--no-sandbox')
 	options.add_argument('window-size=1920x1080')
-	chromedriver = "/Users/dhawalmajithia/Desktop/works/test/ef_scrap/chromedriver"
 	driver = webdriver.Chrome(chromedriver, options=options)
 	driver.get(link)
 	time.sleep(5)
 	return driver
+
+class TripDate():
+	def __init__(self,date_list_item,year):
+		x = date_list_item.find_elements_by_class_name(date_start_end_class)
+		self.start = x[0].get_attribute('textContent')
+		self.end = x[1].get_attribute('textContent')
+		self.avail = date_list_item.find_element_by_class_name(date_avail_class).get_attribute('textContent')
+		self.year = year
+	def print(self):
+		print(self.year + ' ' + self.start + ' - ' + self.end + '    ' + self.avail)
 
 class Destination():
 	def __init__(self,dlink):
@@ -68,8 +91,14 @@ class Destination():
 			print(self.name)
 			year_buttons = driver.find_elements_by_class_name(year_buttons_class)
 			for b in year_buttons:
-				print(b.text)
-				self.years.add(b.text)
+				year = b.text
+				print(year)
+				self.years.add(year)
+				b.click()
+				time.sleep(0.05)
+				ds = driver.find_elements_by_class_name(date_li_class)
+				for d in ds:
+					self.dates[year] = self.dates.get(year,[]) + [TripDate(d,year)]
 		finally:
 			driver.quit()
 			# b.click()
