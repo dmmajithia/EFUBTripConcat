@@ -11,6 +11,7 @@ import time
 import re
 # Local module imports
 from threads import threaded as Threaded
+import constants as Constants
 
 # chromedriver = "~/bin/chromedriver"
 # chromedriver = "/Users/dhawalmajithia/Desktop/works/test/ef_scrap/EFUBTripConcat/chromedriver"
@@ -65,6 +66,12 @@ class ChromeDriver():
 			return True
 		else:
 			return False
+
+	def flush_popups(self, driver):
+		for popup in Constants.popups:
+			close_button = driver.execute_script(f"return document.querySelector('{popup['type']}[class^={popup['class']}]');")
+			if close_button is not None:
+				close_button.click()
 
 
 
