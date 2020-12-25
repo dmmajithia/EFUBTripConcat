@@ -7,7 +7,7 @@ from tour import Tour
 import time
 
 class EFUltimateBreak():
-	def __init__(self, max_drivers=10, timeout=180):
+	def __init__(self, max_drivers=10, timeout=1800):
 		self.max_drivers = max_drivers
 		self.timeout = timeout
 		self.chromedriver = ChromeDriver(max_drivers=max_drivers, timeout=timeout)
@@ -72,12 +72,12 @@ class EFUltimateBreak():
 			print(f'Tour Links&Infos Error: # of links and infos do not match on page {page_number}.')
 		return list(zip(tour_links, tour_infos))
 
-	def stat_tours_scrape(self):
-		return self.num_done_tours()==len(self.tours)
-
 	def num_done_tours(self):
 		c = sum([1 for tour in self.tours if tour.done])
 		return c
+
+	def stat_tours_scrape(self):
+		return self.num_done_tours()==len(self.tours)
 
 
 

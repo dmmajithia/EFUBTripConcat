@@ -73,6 +73,17 @@ class ChromeDriver():
 			if close_button is not None:
 				close_button.click()
 
+	def click_element_id(self, driver, id):
+		# driver.find_element(By.ID, id).click()
+		print('Click1')
+		button = driver.execute_script(f"return document.querySelector('input[id^={id}]');")
+		print('Click2')
+		if button is not None:
+			button.click()
+			print('Click3')
+		else:
+			print('Click Error: Button is None.')
+
 
 
 
