@@ -1,6 +1,8 @@
+# Local module imports
 from chromedriver import ChromeDriver
 from threads import threaded as Threaded
 import constants as Constants
+# Built-in module imports
 import time
 
 class EFUltimateBreak():
@@ -53,6 +55,8 @@ class EFUltimateBreak():
 			tour_links = [t.get_attribute('href') for t in tour_link_elements]
 
 		self.chromedriver.quit_driver(driver)
+		if len(tour_links) < 1:
+			print(f'Tour Links Error: Could not load any links from page {page_number}')
 		return tour_links
 
 

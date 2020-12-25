@@ -10,7 +10,7 @@ from threading import Semaphore
 import time
 import re
 # Local module imports
-from threads import threaded
+from threads import threaded as Threaded
 
 # chromedriver = "~/bin/chromedriver"
 # chromedriver = "/Users/dhawalmajithia/Desktop/works/test/ef_scrap/EFUBTripConcat/chromedriver"
@@ -55,7 +55,7 @@ class ChromeDriver():
 	def get_elements_matching_class(self, driver, class_str, element_type=''):
 		return driver.execute_script(f"return document.querySelectorAll('{element_type}[class^={class_str}]');")
 
-	@threaded
+	@Threaded
 	def wait_for_element_class_like(self, driver, class_str, element_type=''):
 		# Waits till any element class matching the given class_str and optional element_type appear.
 		# If found, return element. Else return None.
