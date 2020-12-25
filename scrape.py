@@ -1,128 +1,59 @@
-#!/usr/bin/python3
-
-from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
+from chromedriver import ChromeDriver
+from threads import threaded as Threaded
+import constants as Constants
 import time
-from threading import Thread
-from concurrent.futures import Future
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
 
-# CONSTANTS
-dests_class = "tour-tile__TileContainer-henuwi-3"
-dest_title_class = "itinerary-header__Title-wtfiof-5"
-year_buttons_class = "iYkdPv"
-date_li_class = "departure-selector__DepartureListItem-vtvk14-3"
-date_start_end_class = "departure-date__InnerDateDiv-sc-1a35nt3-7"
-date_avail_class = "departure-date__Availability-sc-1a35nt3-2"
-# chromedriver = "/Users/dhawalmajithia/Desktop/works/test/ef_scrap/EFUBTripConcat/chromedriver"
-chromedriver = "/usr/local/bin/chromedriver"
-
-# threading related source from - 
-# https://stackoverflow.com/questions/19846332/python-threading-inside-a-class
-def call_with_future(fn, future, args, kwargs):
-	try:
-		result = fn(*args, **kwargs)
-		future.set_result(result)
-	except Exception as exc:
-		future.set_exception(exc)
-
-def threaded(fn):
-	def wrapper(*args, **kwargs):
-		future = Future()
-		Thread(target=call_with_future, args=(fn, future, args, kwargs)).start()
-		return future
-	return wrapper
+class EFUltimateBreak():
+	def __init__(self, max_drivers=5, timeout=10):
+		self.max_drivers = max_drivers
+		self.timeout = timeout
+		self.chromedriver = ChromeDriver(max_drivers=max_drivers, timeout=timeout)
 
 
-def get_driver(link):
-	options = Options()
-	options.add_argument('--headless')
-	options.add_argument('--no-sandbox')
-	options.add_argument('window-size=1920x1080')
-	driver = webdriver.Chrome(chromedriver, options=options)
-	driver.get(link)
-	time.sleep(5)
-	return driver
+	def start_scrape(self, link='https://www.efultimatebreak.com/explore'):
+		self.link = link
+		driver = self.chromedriver.get_driver(self.link)
+		if driver is None:
+			print('ChromeDriver Error: Could not load link.')
+			self.chromedriver.quit_driver(driver)
+			return
+		self.num_pages = self.get_num_pages(driver)
+		self.chromedriver.quit_driver(driver)
+		tour_links_futures = [self.get_tour_links_from_page(n) 
+								for n in range(self.num_pages)]
+		self.tour_links = [future.result() for future in tour_links_futures]
 
-class TripDate():
-	def __init__(self,date_list_item,year):
-		x = date_list_item.find_elements_by_class_name(date_start_end_class)
-		self.start = x[0].get_attribute('textContent')
-		self.end = x[1].get_attribute('textContent')
-		self.avail = date_list_item.find_element_by_class_name(date_avail_class).get_attribute('textContent')
-		self.year = year
-	def print(self):
-		print(self.year + ' ' + self.start + ' - ' + self.end + '    ' + self.avail)
 
-class Destination():
-	def __init__(self,dlink):
-		self.url = dlink
-		self.name = ""
-		self.years = set()
-		self.dates = {}
-		self.load()
+	def get_num_pages(self, driver):
+		# Returns number of pages available in explore section.
+		page_numbers = 0
 
-	# @threaded
-	def load(self):
-		driver = get_driver(self.url)
-		try:
-			self.name = WebDriverWait(driver, 10).until(
-				EC.presence_of_element_located((By.CLASS_NAME, dest_title_class))
-			)
-			if not self.name:
-				print("Could not load page - " + self.url)
-				driver.quit()
-				return
-			else:
-				self.name = self.name.text
-			# self.name = self.driver.find_element_by_class_name(dest_title_class).text
-			print(self.name)
-			year_buttons = driver.find_elements_by_class_name(year_buttons_class)
-			for b in year_buttons:
-				year = b.text
-				print(year)
-				self.years.add(year)
-				b.click()
-				time.sleep(0.05)
-				ds = driver.find_elements_by_class_name(date_li_class)
-				for d in ds:
-					self.dates[year] = self.dates.get(year,[]) + [TripDate(d,year)]
-		finally:
-			driver.quit()
-			# b.click()
+		if self.chromedriver.wait_for_element_class_like(driver, 
+			Constants.page_number_links, 'a').result():
 
-def foo():
-	start = time.time()
-	ef_explore = "https://www.efultimatebreak.com/explore"
-	driver = get_driver(ef_explore)
-	dlinks = driver.find_elements_by_class_name(dests_class)
-	dlinks = [d.get_attribute('href') for d in dlinks]
-	driver.quit()
-	dests = []
-	futures = []
-	for l in dlinks:
-		# futures.append(Destination(l).load())
-		d = Destination(l)
-		if len(d.name) > 0:
-			dests.append(d)
-	# dests = [f.result() for f in futures]
-	end = time.time()
-	print(f'It took {end - start} seconds!')
-	return dests
+			page_number_elements = self.chromedriver.get_elements_matching_class(driver, 
+				Constants.page_number_links, 'a')
 
-def save_dests(fname='p1.txt'):
-	with open(fname,'a') as f:
-		for p in places:
-			f.write('#n-'+p.name+'\n')
-			f.write('#u-'+p.url+'\n')
-			for y in p.years:
-				f.write('#y-'+y+'\n')
-				for d in p.dates[y]:
-					f.write('#s-'+d.start+'\n')
-					f.write('#e-'+d.end+'\n')
-					f.write('#a-'+d.avail+'\n')
+			num_pages = len(page_number_elements)-4
+			# there are four directional buttons and the rest are page buttons
+		print(f'Found {num_pages} pages.')
+		return num_pages
+
+	@Threaded
+	def get_tour_links_from_page(self, page_number):
+		# Returns links to tours on page_number'th explore page.
+		tour_links = []
+		driver = self.chromedriver.get_driver(f'{self.link}?results-page={page_number}')
+
+		if self.chromedriver.wait_for_element_class_like(driver, 
+			Constants.tour_tile_links, 'a').result():
+			
+			tour_link_elements = self.chromedriver.get_elements_matching_class(driver, 
+				Constants.tour_tile_links, 'a')
+			tour_links = [t.get_attribute('href') for t in tour_link_elements]
+
+		self.chromedriver.quit_driver(driver)
+		return tour_links
 
 
 
